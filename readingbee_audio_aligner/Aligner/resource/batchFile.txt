@@ -1,0 +1,2 @@
+./resource/transcription/oov_numbers.txt ./resource/wav/oov_numbers.wav
+./resource/transcription/NM.txt ./resource/wav/NM.wav

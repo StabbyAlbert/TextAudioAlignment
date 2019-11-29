@@ -1,0 +1,19 @@
+-------------  Development of new Linguist ---------------
+Def:
+i) Context : Every unit (word/phone) has set of predecessor and successor phone. Storing this information apparently is very important (or your viterbi search will go haywire due when co-articulation is encountered). So what is context information anyways? It simply stores the last few phones from the previous word to make sure that even if you mumble at the end of a word, it can jump the last few phones and still recognise that last word.
+	Hence, the <b> Left Context </b> for the first phone of a word is usually the last phone of the previous word, and <b>Right Context </b> of a phone is itself.
+---------------- Phrase Spotting API ---------------------
+A typical phrase spotter will typically have the following functionality:
+i) allocate : allocates resources for required for phrase spotting such as 
+the decoder, linguist, grammar etc.
+
+ii) startSpotting: Starts phrase spotting on of the utterance. Generates the final timed data containing the start and end times of phrase.
+
+iii) getTimedResult : Returns the start and end time of the phrase each time it was spoken in the complete utterance.
+
+---------------- Timed Phrase Result ---------------------
+A new class AlignerResult was added to the project to repo allow fetching timed data of individual phone.
+The idea implementation was based on a simple idea of hopping from one Token to it's predecessor (starting from best active token). While hoping backwards silence and word tokens were taken care of ( ensured that they don't appear in the final result).Starttime of any token begins at the end time of it's previous token (this time previous token could be a silence token too). 
+
+--------- Using Spotter's Result For Beam Pruning --------
+The motivation towards developing  Phrase Spotter was to use be able to generate know appoximate positions where the phrase was uttered. While treating long audio files, usually the size of the beam is a huge issue since number of hypothesis increases and if noise is present in the audio it might also lead to pruning of correct alignment from the beam. We will now use phrase spotting to tackle this by guessing what phrase data can be found where in the audio and penalising the undesired token (or awarding the desired ones) such that the beam size reduces. This should not only imporve the aligner's result but should hopefully increase it's speed.

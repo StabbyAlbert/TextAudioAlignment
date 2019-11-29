@@ -1,0 +1,1331 @@
+2017-06-18 10:59:03 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/, TSawyer_01-02_twain.wav, 0, 0, 1]
+2017-06-18 10:59:03 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 10:59:03 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 10:59:03 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 10:59:03 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 10:59:03 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 10:59:03 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 10:59:03 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 10:59:03 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_01-02_twain/
+2017-06-18 10:59:03 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_01-02_twain/
+2017-06-18 10:59:03 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_01-02_twain
+2017-06-18 10:59:03 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_01-02_twain
+2017-06-18 10:59:03 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 10:59:40 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/, TSawyer_01-02_twain.wav, 0, 0, 1]
+2017-06-18 10:59:40 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 10:59:40 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 10:59:40 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 10:59:40 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 10:59:40 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 10:59:40 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 10:59:40 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 10:59:40 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_01-02_twain/
+2017-06-18 10:59:40 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_01-02_twain/
+2017-06-18 10:59:40 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_01-02_twain
+2017-06-18 10:59:40 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_01-02_twain
+2017-06-18 10:59:40 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_01-02_twain\InsTime.bk.txt
+2017-06-18 10:59:40 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_01-02_twain\InsTime.bk2.txt
+2017-06-18 10:59:40 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 10:59:41 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/, TSawyer_01-02_twain.wav, 0, 0, 0, 14, 2, 0, 320]
+2017-06-18 10:59:41 INFO  FileProcessingNew:103 - 9-args5debug.....: 14
+2017-06-18 10:59:41 INFO  FileProcessingNew:107 - args6debug.....: 2
+2017-06-18 10:59:41 INFO  FileProcessingNew:112 - args7debug.....: 0
+2017-06-18 10:59:41 INFO  FileProcessingNew:116 - 9args8debug..a...: 320
+2017-06-18 10:59:41 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 10:59:41 INFO  FileProcessingNew:154 -  args length: 9
+2017-06-18 10:59:41 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 10:59:41 INFO  FileProcessingNew:184 - Shift bit set to: 2
+2017-06-18 10:59:41 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 10:59:41 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 320
+2017-06-18 10:59:41 INFO  FileProcessingNew:209 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 10:59:41 INFO  FileProcessingNew:214 - **********FAIL TO CREATE DIR ok*******F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_01-02_twain/
+2017-06-18 10:59:41 INFO  FileProcessingNew:218 - Ok: F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_01-02_twain/TSawyer_01-02_twain_NT_v8.txt
+2017-06-18 10:59:41 INFO  FileProcessingNew:219 - Ok2: F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_01-02_twain/TSawyer_01-02_twain_NT_v8.txt
+2017-06-18 10:59:41 INFO  FileProcessingNew:236 -  OUTPUTFILE_NAME:F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_01-02_twain/SEG_WAVTXT.txt
+2017-06-18 10:59:41 INFO  AlignMainNew:74 -  *****txtContentOrigLength:24644
+2017-06-18 10:59:41 INFO  LongAudioAlignerNew:63 - Configuring with: config.xml
+2017-06-18 10:59:41 INFO  LongAudioAlignerNew:66 - PATH: C:\Java\readingbee_audio_aligner\Aligner\config.xml
+2017-06-18 10:59:41 INFO  LongAudioAlignerNew:68 - Using config: config.xml
+2017-06-18 11:00:17 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/, TSawyer_01-02_twain.wav, 0, 0, 1]
+2017-06-18 11:00:17 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 11:00:17 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 11:00:17 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 11:00:17 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 11:00:17 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 11:00:17 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 11:00:17 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 11:00:17 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_01-02_twain/
+2017-06-18 11:00:17 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_01-02_twain/
+2017-06-18 11:00:17 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_01-02_twain
+2017-06-18 11:00:17 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_01-02_twain
+2017-06-18 11:00:17 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_01-02_twain\InsTime.bk.txt
+2017-06-18 11:00:17 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_01-02_twain\InsTime.bk2.txt
+2017-06-18 11:00:18 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_01-02_twain\TSawyer_01-02_twain_NT_v8.txt
+2017-06-18 11:00:18 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_01-02_twain\SEG_WAVTXT.txt
+2017-06-18 11:00:18 INFO  FileProcessingNew:90 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_01-02_twain\SEG_WAVTXT1.wav
+2017-06-18 11:00:18 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 11:01:49 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/, TSawyer_05-06_twain.wav, 0, 0, 1]
+2017-06-18 11:01:49 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 11:01:49 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 11:01:49 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 11:01:49 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 11:01:49 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 11:01:49 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 11:01:49 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 11:01:49 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_05-06_twain/
+2017-06-18 11:01:49 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_05-06_twain/
+2017-06-18 11:01:49 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_05-06_twain
+2017-06-18 11:01:49 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_05-06_twain
+2017-06-18 11:01:49 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 16:33:07 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/, TSawyer_05-06_twain.wav, 0, 0, 1]
+2017-06-18 16:33:07 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 16:33:07 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 16:33:07 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 16:33:07 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 16:33:07 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 16:33:07 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 16:33:07 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 16:33:07 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_05-06_twain/
+2017-06-18 16:33:07 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_05-06_twain/
+2017-06-18 16:33:07 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_05-06_twain
+2017-06-18 16:33:07 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_05-06_twain
+2017-06-18 16:33:07 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_05-06_twain\InsTime.bk.txt
+2017-06-18 16:33:07 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_05-06_twain\InsTime.bk2.txt
+2017-06-18 16:33:07 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 16:33:39 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/, TSawyer_07-08_twain.wav, 0, 0, 1]
+2017-06-18 16:33:39 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 16:33:39 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 16:33:39 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 16:33:39 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 16:33:39 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 16:33:39 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 16:33:39 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 16:33:39 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:33:39 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:33:39 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:33:39 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:33:39 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 16:34:11 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/, TSawyer_07-08_twain.wav, 0, 0, 1]
+2017-06-18 16:34:11 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 16:34:11 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 16:34:11 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 16:34:11 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 16:34:11 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 16:34:11 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 16:34:11 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 16:34:11 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:34:11 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:34:11 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:34:11 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:34:11 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk.txt
+2017-06-18 16:34:12 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk2.txt
+2017-06-18 16:34:12 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 16:34:35 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/, TSawyer_07-08_twain.wav, 0, 0, 1]
+2017-06-18 16:34:35 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 16:34:35 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 16:34:35 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 16:34:35 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 16:34:35 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 16:34:35 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 16:34:35 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 16:34:35 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:34:35 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:34:35 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:34:35 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:34:35 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk.txt
+2017-06-18 16:34:35 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk2.txt
+2017-06-18 16:34:35 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 16:34:45 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/, TSawyer_07-08_twain.wav, 0, 0, 1]
+2017-06-18 16:34:45 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 16:34:45 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 16:34:45 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 16:34:45 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 16:34:45 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 16:34:45 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 16:34:45 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 16:34:45 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:34:45 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:34:45 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:34:45 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:34:45 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk.txt
+2017-06-18 16:34:46 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk2.txt
+2017-06-18 16:34:46 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 16:34:48 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/, TSawyer_07-08_twain.wav, 0, 0, 1]
+2017-06-18 16:34:48 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 16:34:48 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 16:34:48 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 16:34:48 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 16:34:48 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 16:34:48 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 16:34:48 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 16:34:48 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:34:48 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:34:48 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:34:48 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:34:48 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk.txt
+2017-06-18 16:34:48 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk2.txt
+2017-06-18 16:34:48 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 16:34:49 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/, TSawyer_07-08_twain.wav, 0, 0, 0, 14, 2, 0, 320]
+2017-06-18 16:34:49 INFO  FileProcessingNew:103 - 9-args5debug.....: 14
+2017-06-18 16:34:49 INFO  FileProcessingNew:107 - args6debug.....: 2
+2017-06-18 16:34:49 INFO  FileProcessingNew:112 - args7debug.....: 0
+2017-06-18 16:34:49 INFO  FileProcessingNew:116 - 9args8debug..a...: 320
+2017-06-18 16:34:49 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 16:34:49 INFO  FileProcessingNew:154 -  args length: 9
+2017-06-18 16:34:49 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 16:34:49 INFO  FileProcessingNew:184 - Shift bit set to: 2
+2017-06-18 16:34:49 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 16:34:49 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 320
+2017-06-18 16:34:49 INFO  FileProcessingNew:209 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 16:34:49 INFO  FileProcessingNew:214 - **********FAIL TO CREATE DIR ok*******F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:34:49 INFO  FileProcessingNew:218 - Ok: F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/TSawyer_07-08_twain_NT_v8.txt
+2017-06-18 16:34:49 INFO  FileProcessingNew:219 - Ok2: F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/TSawyer_07-08_twain_NT_v8.txt
+2017-06-18 16:34:49 INFO  FileProcessingNew:236 -  OUTPUTFILE_NAME:F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/SEG_WAVTXT.txt
+2017-06-18 16:34:49 INFO  AlignMainNew:74 -  *****txtContentOrigLength:20002
+2017-06-18 16:34:49 INFO  LongAudioAlignerNew:63 - Configuring with: config.xml
+2017-06-18 16:34:49 INFO  LongAudioAlignerNew:66 - PATH: C:\Java\readingbee_audio_aligner\Aligner\config.xml
+2017-06-18 16:34:49 INFO  LongAudioAlignerNew:68 - Using config: config.xml
+2017-06-18 16:41:30 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/, TSawyer_07-08_twain.wav, 0, 0, 1]
+2017-06-18 16:41:30 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 16:41:30 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 16:41:30 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 16:41:30 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 16:41:30 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 16:41:30 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 16:41:30 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 16:41:30 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:41:30 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:41:30 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:41:30 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:41:30 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk.txt
+2017-06-18 16:41:30 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk2.txt
+2017-06-18 16:41:30 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\TSawyer_07-08_twain_NT_v8.txt
+2017-06-18 16:41:30 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\SEG_WAVTXT.txt
+2017-06-18 16:41:30 INFO  FileProcessingNew:90 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\SEG_WAVTXT1.wav
+2017-06-18 16:41:31 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 16:41:40 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/, TSawyer_07-08_twain.wav, 0, 0, 1]
+2017-06-18 16:41:40 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 16:41:40 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 16:41:40 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 16:41:40 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 16:41:40 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 16:41:40 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 16:41:40 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 16:41:40 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:41:40 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:41:40 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:41:40 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:41:40 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk.txt
+2017-06-18 16:41:40 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk2.txt
+2017-06-18 16:41:40 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 16:41:50 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/, TSawyer_07-08_twain.wav, 0, 0, 1]
+2017-06-18 16:41:50 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 16:41:50 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 16:41:50 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 16:41:50 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 16:41:50 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 16:41:50 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 16:41:50 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 16:41:50 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:41:50 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:41:50 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:41:50 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:41:50 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk.txt
+2017-06-18 16:41:50 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk2.txt
+2017-06-18 16:41:50 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 16:42:03 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/, TSawyer_07-08_twain.wav, 0, 0, 1]
+2017-06-18 16:42:03 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 16:42:03 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 16:42:03 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 16:42:03 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 16:42:03 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 16:42:03 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 16:42:03 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 16:42:03 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:42:03 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:42:03 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:42:03 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:42:03 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk.txt
+2017-06-18 16:42:03 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk2.txt
+2017-06-18 16:42:03 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 16:42:06 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/, TSawyer_07-08_twain.wav, 0, 0, 1]
+2017-06-18 16:42:06 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 16:42:06 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 16:42:06 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 16:42:06 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 16:42:06 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 16:42:06 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 16:42:06 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 16:42:06 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:42:06 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:42:06 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:42:06 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:42:06 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk.txt
+2017-06-18 16:42:06 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk2.txt
+2017-06-18 16:42:06 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 16:42:11 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/, TSawyer_07-08_twain.wav, 0, 0, 1]
+2017-06-18 16:42:11 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 16:42:11 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 16:42:11 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 16:42:11 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 16:42:11 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 16:42:11 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 16:42:11 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 16:42:11 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:42:11 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:42:11 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:42:11 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:42:11 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk.txt
+2017-06-18 16:42:11 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk2.txt
+2017-06-18 16:42:12 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 16:42:15 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/, TSawyer_07-08_twain.wav, 0, 0, 1]
+2017-06-18 16:42:15 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 16:42:15 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 16:42:15 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 16:42:15 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 16:42:15 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 16:42:15 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 16:42:15 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 16:42:15 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:42:15 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:42:15 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:42:15 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:42:15 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk.txt
+2017-06-18 16:42:15 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk2.txt
+2017-06-18 16:42:15 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 16:42:17 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/, TSawyer_07-08_twain.wav, 0, 0, 1]
+2017-06-18 16:42:17 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 16:42:17 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 16:42:17 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 16:42:17 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 16:42:17 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 16:42:17 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 16:42:17 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 16:42:17 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:42:17 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:42:17 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:42:17 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:42:17 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk.txt
+2017-06-18 16:42:17 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk2.txt
+2017-06-18 16:42:17 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 16:42:27 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/, TSawyer_07-08_twain.wav, 0, 0, 1]
+2017-06-18 16:42:27 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 16:42:27 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 16:42:27 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 16:42:27 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 16:42:27 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 16:42:27 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 16:42:27 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 16:42:27 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:42:27 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:42:27 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:42:27 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:42:27 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk.txt
+2017-06-18 16:42:27 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk2.txt
+2017-06-18 16:42:27 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 16:42:41 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/, TSawyer_07-08_twain.wav, 0, 0, 1]
+2017-06-18 16:42:41 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 16:42:41 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 16:42:41 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 16:42:41 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 16:42:41 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 16:42:41 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 16:42:41 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 16:42:41 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:42:41 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:42:41 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:42:41 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:42:41 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk.txt
+2017-06-18 16:42:41 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk2.txt
+2017-06-18 16:42:41 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 16:42:41 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/, TSawyer_07-08_twain.wav, 0, 0, 1]
+2017-06-18 16:42:41 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 16:42:41 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 16:42:41 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 16:42:41 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 16:42:41 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 16:42:41 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 16:42:41 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 16:42:41 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:42:41 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:42:41 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:42:41 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:42:41 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk.txt
+2017-06-18 16:42:42 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 16:42:50 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/, TSawyer_07-08_twain.wav, 0, 0, 1]
+2017-06-18 16:42:50 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 16:42:50 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 16:42:50 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 16:42:50 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 16:42:50 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 16:42:50 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 16:42:50 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 16:42:50 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:42:50 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:42:50 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:42:50 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:42:50 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk2.txt
+2017-06-18 16:42:50 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk.txt
+2017-06-18 16:42:50 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 16:42:51 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/, TSawyer_07-08_twain.wav, 0, 0, 1]
+2017-06-18 16:42:51 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 16:42:51 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 16:42:51 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 16:42:51 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 16:42:51 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 16:42:51 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 16:42:51 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 16:42:51 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:42:51 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:42:51 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:42:51 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:42:51 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk.txt
+2017-06-18 16:42:51 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk2.txt
+2017-06-18 16:42:51 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 16:42:59 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/, TSawyer_07-08_twain.wav, 0, 0, 1]
+2017-06-18 16:42:59 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 16:42:59 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 16:42:59 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 16:42:59 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 16:42:59 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 16:42:59 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 16:42:59 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 16:42:59 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:42:59 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:42:59 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:42:59 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:42:59 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk.txt
+2017-06-18 16:42:59 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk2.txt
+2017-06-18 16:42:59 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 16:43:11 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/, TSawyer_07-08_twain.wav, 0, 0, 1]
+2017-06-18 16:43:11 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 16:43:11 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 16:43:11 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 16:43:11 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 16:43:11 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 16:43:11 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 16:43:11 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 16:43:11 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:43:11 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:43:11 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:43:11 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:43:11 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk.txt
+2017-06-18 16:43:11 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk2.txt
+2017-06-18 16:43:11 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 16:43:16 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/, TSawyer_07-08_twain.wav, 0, 0, 1]
+2017-06-18 16:43:16 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 16:43:16 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 16:43:16 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 16:43:16 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 16:43:16 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 16:43:16 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 16:43:16 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 16:43:16 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:43:16 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:43:16 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:43:16 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:43:16 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk.txt
+2017-06-18 16:43:16 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk2.txt
+2017-06-18 16:43:16 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 16:43:18 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/, TSawyer_07-08_twain.wav, 0, 0, 1]
+2017-06-18 16:43:18 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 16:43:18 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 16:43:18 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 16:43:18 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 16:43:18 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 16:43:18 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 16:43:18 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 16:43:18 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:43:18 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:43:18 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:43:18 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:43:18 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk.txt
+2017-06-18 16:43:18 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk2.txt
+2017-06-18 16:43:18 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 16:43:20 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/, TSawyer_07-08_twain.wav, 0, 0, 1]
+2017-06-18 16:43:20 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 16:43:20 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 16:43:20 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 16:43:20 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 16:43:20 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 16:43:20 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 16:43:20 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 16:43:20 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:43:20 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Tom_Sawyer/tom_sawyer_librivox/TSawyer_07-08_twain/
+2017-06-18 16:43:20 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:43:20 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain
+2017-06-18 16:43:20 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk.txt
+2017-06-18 16:43:21 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Tom_Sawyer\tom_sawyer_librivox\TSawyer_07-08_twain\InsTime.bk2.txt
+2017-06-18 16:43:21 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 17:26:09 INFO  FileProcessingNew:83 - ARGS FROM CMD: [C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/, importanceofbeingearnest_01_wilde.wav, 0, 0, 1]
+2017-06-18 17:26:09 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 17:26:09 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 17:26:09 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 17:26:09 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 17:26:09 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 17:26:09 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 17:26:09 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 17:26:09 INFO  FileProcessingNew:118 - Removing tempary files from pathC:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/importanceofbeingearnest_01_wilde/
+2017-06-18 17:26:09 INFO  FileProcessingNew:69 - ***Removing temp file from Path: C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/importanceofbeingearnest_01_wilde/
+2017-06-18 17:26:09 INFO  FileProcessingNew:210 - Entering directory: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde
+2017-06-18 17:26:09 INFO  FileProcessingNew:257 - Exiting directory: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde
+2017-06-18 17:26:09 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 17:26:28 INFO  FileProcessingNew:83 - ARGS FROM CMD: [C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/, importanceofbeingearnest_01_wilde.wav, 0, 0, 1]
+2017-06-18 17:26:28 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 17:26:28 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 17:26:28 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 17:26:28 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 17:26:28 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 17:26:28 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 17:26:28 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 17:26:28 INFO  FileProcessingNew:118 - Removing tempary files from pathC:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/importanceofbeingearnest_01_wilde/
+2017-06-18 17:26:28 INFO  FileProcessingNew:69 - ***Removing temp file from Path: C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/importanceofbeingearnest_01_wilde/
+2017-06-18 17:26:28 INFO  FileProcessingNew:210 - Entering directory: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde
+2017-06-18 17:26:28 INFO  FileProcessingNew:257 - Exiting directory: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde
+2017-06-18 17:26:28 INFO  FileProcessingNew:81 - removing temp file: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde\InsTime.bk.txt
+2017-06-18 17:26:28 INFO  FileProcessingNew:81 - removing temp file: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde\InsTime.bk2.txt
+2017-06-18 17:26:28 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 17:27:40 INFO  FileProcessingNew:83 - ARGS FROM CMD: [C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/, importanceofbeingearnest_01_wilde.wav, 0, 0, 1]
+2017-06-18 17:27:40 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 17:27:40 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 17:27:40 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 17:27:40 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 17:27:40 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 17:27:40 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 17:27:40 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 17:27:40 INFO  FileProcessingNew:118 - Removing tempary files from pathC:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/importanceofbeingearnest_01_wilde/
+2017-06-18 17:27:40 INFO  FileProcessingNew:69 - ***Removing temp file from Path: C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/importanceofbeingearnest_01_wilde/
+2017-06-18 17:27:40 INFO  FileProcessingNew:210 - Entering directory: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde
+2017-06-18 17:27:40 INFO  FileProcessingNew:257 - Exiting directory: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde
+2017-06-18 17:27:40 INFO  FileProcessingNew:81 - removing temp file: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde\InsTime.bk.txt
+2017-06-18 17:27:40 INFO  FileProcessingNew:81 - removing temp file: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde\InsTime.bk2.txt
+2017-06-18 17:27:40 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 17:27:50 INFO  FileProcessingNew:83 - ARGS FROM CMD: [C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/, importanceofbeingearnest_01_wilde.wav, 0, 0, 1]
+2017-06-18 17:27:50 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 17:27:50 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 17:27:50 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 17:27:50 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 17:27:50 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 17:27:50 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 17:27:50 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 17:27:50 INFO  FileProcessingNew:118 - Removing tempary files from pathC:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/importanceofbeingearnest_01_wilde/
+2017-06-18 17:27:50 INFO  FileProcessingNew:69 - ***Removing temp file from Path: C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/importanceofbeingearnest_01_wilde/
+2017-06-18 17:27:50 INFO  FileProcessingNew:210 - Entering directory: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde
+2017-06-18 17:27:50 INFO  FileProcessingNew:257 - Exiting directory: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde
+2017-06-18 17:27:50 INFO  FileProcessingNew:81 - removing temp file: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde\InsTime.bk.txt
+2017-06-18 17:27:50 INFO  FileProcessingNew:81 - removing temp file: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde\InsTime.bk2.txt
+2017-06-18 17:27:50 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 17:27:53 INFO  FileProcessingNew:83 - ARGS FROM CMD: [C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/, importanceofbeingearnest_01_wilde.wav, 0, 0, 1]
+2017-06-18 17:27:53 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 17:27:53 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 17:27:53 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 17:27:53 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 17:27:53 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 17:27:53 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 17:27:53 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 17:27:53 INFO  FileProcessingNew:118 - Removing tempary files from pathC:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/importanceofbeingearnest_01_wilde/
+2017-06-18 17:27:53 INFO  FileProcessingNew:69 - ***Removing temp file from Path: C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/importanceofbeingearnest_01_wilde/
+2017-06-18 17:27:53 INFO  FileProcessingNew:210 - Entering directory: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde
+2017-06-18 17:27:53 INFO  FileProcessingNew:257 - Exiting directory: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde
+2017-06-18 17:27:53 INFO  FileProcessingNew:81 - removing temp file: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde\InsTime.bk.txt
+2017-06-18 17:27:53 INFO  FileProcessingNew:81 - removing temp file: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde\InsTime.bk2.txt
+2017-06-18 17:27:53 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 17:28:09 INFO  FileProcessingNew:83 - ARGS FROM CMD: [C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/, importanceofbeingearnest_01_wilde.wav, 0, 0, 1]
+2017-06-18 17:28:09 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 17:28:09 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 17:28:09 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 17:28:09 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 17:28:09 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 17:28:09 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 17:28:09 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 17:28:09 INFO  FileProcessingNew:118 - Removing tempary files from pathC:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/importanceofbeingearnest_01_wilde/
+2017-06-18 17:28:09 INFO  FileProcessingNew:69 - ***Removing temp file from Path: C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/importanceofbeingearnest_01_wilde/
+2017-06-18 17:28:09 INFO  FileProcessingNew:210 - Entering directory: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde
+2017-06-18 17:28:09 INFO  FileProcessingNew:257 - Exiting directory: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde
+2017-06-18 17:28:09 INFO  FileProcessingNew:81 - removing temp file: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde\InsTime.bk.txt
+2017-06-18 17:28:09 INFO  FileProcessingNew:81 - removing temp file: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde\InsTime.bk2.txt
+2017-06-18 17:28:09 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 17:28:49 INFO  FileProcessingNew:83 - ARGS FROM CMD: [C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/, importanceofbeingearnest_01_wilde.wav, 0, 0, 1]
+2017-06-18 17:28:49 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 17:28:49 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 17:28:49 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 17:28:49 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 17:28:49 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 17:28:49 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 17:28:49 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 17:28:49 INFO  FileProcessingNew:118 - Removing tempary files from pathC:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/importanceofbeingearnest_01_wilde/
+2017-06-18 17:28:49 INFO  FileProcessingNew:69 - ***Removing temp file from Path: C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/importanceofbeingearnest_01_wilde/
+2017-06-18 17:28:49 INFO  FileProcessingNew:210 - Entering directory: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde
+2017-06-18 17:28:49 INFO  FileProcessingNew:257 - Exiting directory: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde
+2017-06-18 17:28:49 INFO  FileProcessingNew:81 - removing temp file: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde\InsTime.bk.txt
+2017-06-18 17:28:49 INFO  FileProcessingNew:81 - removing temp file: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde\InsTime.bk2.txt
+2017-06-18 17:28:49 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 17:28:50 INFO  FileProcessingNew:83 - ARGS FROM CMD: [C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/, importanceofbeingearnest_01_wilde.wav, 0, 0, 1]
+2017-06-18 17:28:50 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 17:28:50 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 17:28:50 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 17:28:50 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 17:28:50 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 17:28:50 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 17:28:50 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 17:28:50 INFO  FileProcessingNew:118 - Removing tempary files from pathC:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/importanceofbeingearnest_01_wilde/
+2017-06-18 17:28:50 INFO  FileProcessingNew:69 - ***Removing temp file from Path: C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/importanceofbeingearnest_01_wilde/
+2017-06-18 17:28:50 INFO  FileProcessingNew:210 - Entering directory: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde
+2017-06-18 17:28:50 INFO  FileProcessingNew:257 - Exiting directory: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde
+2017-06-18 17:28:50 INFO  FileProcessingNew:81 - removing temp file: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde\InsTime.bk.txt
+2017-06-18 17:28:50 INFO  FileProcessingNew:81 - removing temp file: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde\InsTime.bk2.txt
+2017-06-18 17:28:50 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 17:29:06 INFO  FileProcessingNew:83 - ARGS FROM CMD: [C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/, importanceofbeingearnest_01_wilde.wav, 0, 0, 1]
+2017-06-18 17:29:06 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 17:29:06 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 17:29:06 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 17:29:06 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 17:29:06 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 17:29:06 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 17:29:06 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 17:29:06 INFO  FileProcessingNew:118 - Removing tempary files from pathC:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/importanceofbeingearnest_01_wilde/
+2017-06-18 17:29:06 INFO  FileProcessingNew:69 - ***Removing temp file from Path: C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/importanceofbeingearnest_01_wilde/
+2017-06-18 17:29:06 INFO  FileProcessingNew:210 - Entering directory: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde
+2017-06-18 17:29:06 INFO  FileProcessingNew:257 - Exiting directory: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde
+2017-06-18 17:29:06 INFO  FileProcessingNew:81 - removing temp file: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde\InsTime.bk.txt
+2017-06-18 17:29:06 INFO  FileProcessingNew:81 - removing temp file: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde\InsTime.bk2.txt
+2017-06-18 17:29:06 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 17:29:40 INFO  FileProcessingNew:83 - ARGS FROM CMD: [C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/, importanceofbeingearnest_01_wilde.wav, 0, 0, 1]
+2017-06-18 17:29:40 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 17:29:40 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 17:29:40 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 17:29:40 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 17:29:40 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 17:29:40 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 17:29:40 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 17:29:40 INFO  FileProcessingNew:118 - Removing tempary files from pathC:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/importanceofbeingearnest_01_wilde/
+2017-06-18 17:29:40 INFO  FileProcessingNew:69 - ***Removing temp file from Path: C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/importanceofbeingearnest_01_wilde/
+2017-06-18 17:29:40 INFO  FileProcessingNew:210 - Entering directory: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde
+2017-06-18 17:29:40 INFO  FileProcessingNew:257 - Exiting directory: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde
+2017-06-18 17:29:40 INFO  FileProcessingNew:81 - removing temp file: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde\InsTime.bk.txt
+2017-06-18 17:29:40 INFO  FileProcessingNew:81 - removing temp file: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde\InsTime.bk2.txt
+2017-06-18 17:29:40 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 17:29:44 INFO  FileProcessingNew:83 - ARGS FROM CMD: [C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/, importanceofbeingearnest_01_wilde.wav, 0, 0, 1]
+2017-06-18 17:29:44 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 17:29:44 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 17:29:44 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 17:29:44 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 17:29:44 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 17:29:44 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 17:29:44 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 17:29:44 INFO  FileProcessingNew:118 - Removing tempary files from pathC:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/importanceofbeingearnest_01_wilde/
+2017-06-18 17:29:44 INFO  FileProcessingNew:69 - ***Removing temp file from Path: C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/importanceofbeingearnest_01_wilde/
+2017-06-18 17:29:44 INFO  FileProcessingNew:210 - Entering directory: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde
+2017-06-18 17:29:44 INFO  FileProcessingNew:257 - Exiting directory: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde
+2017-06-18 17:29:44 INFO  FileProcessingNew:81 - removing temp file: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde\InsTime.bk.txt
+2017-06-18 17:29:44 INFO  FileProcessingNew:81 - removing temp file: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde\InsTime.bk2.txt
+2017-06-18 17:29:44 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 17:29:46 INFO  FileProcessingNew:83 - ARGS FROM CMD: [C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/, importanceofbeingearnest_01_wilde.wav, 0, 0, 1]
+2017-06-18 17:29:46 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 17:29:46 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 17:29:46 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 17:29:46 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 17:29:46 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 17:29:46 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 17:29:46 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 17:29:46 INFO  FileProcessingNew:118 - Removing tempary files from pathC:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/importanceofbeingearnest_01_wilde/
+2017-06-18 17:29:46 INFO  FileProcessingNew:69 - ***Removing temp file from Path: C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/importanceofbeingearnest_01_wilde/
+2017-06-18 17:29:46 INFO  FileProcessingNew:210 - Entering directory: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde
+2017-06-18 17:29:46 INFO  FileProcessingNew:257 - Exiting directory: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde
+2017-06-18 17:29:46 INFO  FileProcessingNew:81 - removing temp file: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde\InsTime.bk.txt
+2017-06-18 17:29:46 INFO  FileProcessingNew:81 - removing temp file: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde\InsTime.bk2.txt
+2017-06-18 17:29:46 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 17:30:07 INFO  FileProcessingNew:83 - ARGS FROM CMD: [C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/, importanceofbeingearnest_01_wilde.wav, 0, 0, 1]
+2017-06-18 17:30:07 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 17:30:07 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 17:30:07 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 17:30:07 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 17:30:07 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 17:30:07 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 17:30:07 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 17:30:07 INFO  FileProcessingNew:118 - Removing tempary files from pathC:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/importanceofbeingearnest_01_wilde/
+2017-06-18 17:30:07 INFO  FileProcessingNew:69 - ***Removing temp file from Path: C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/importanceofbeingearnest_01_wilde/
+2017-06-18 17:30:07 INFO  FileProcessingNew:210 - Entering directory: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde
+2017-06-18 17:30:07 INFO  FileProcessingNew:257 - Exiting directory: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde
+2017-06-18 17:30:07 INFO  FileProcessingNew:81 - removing temp file: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde\InsTime.bk.txt
+2017-06-18 17:30:07 INFO  FileProcessingNew:81 - removing temp file: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde\InsTime.bk2.txt
+2017-06-18 17:30:07 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 17:30:41 INFO  FileProcessingNew:83 - ARGS FROM CMD: [C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/, importanceofbeingearnest_01_wilde.wav, 0, 0, 1]
+2017-06-18 17:30:41 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 17:30:41 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 17:30:41 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 17:30:41 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 17:30:41 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 17:30:41 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 17:30:41 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 17:30:41 INFO  FileProcessingNew:118 - Removing tempary files from pathC:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/importanceofbeingearnest_01_wilde/
+2017-06-18 17:30:41 INFO  FileProcessingNew:69 - ***Removing temp file from Path: C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/importanceofbeingearnest_01_wilde/
+2017-06-18 17:30:41 INFO  FileProcessingNew:210 - Entering directory: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde
+2017-06-18 17:30:41 INFO  FileProcessingNew:257 - Exiting directory: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde
+2017-06-18 17:30:41 INFO  FileProcessingNew:81 - removing temp file: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde\InsTime.bk.txt
+2017-06-18 17:30:41 INFO  FileProcessingNew:81 - removing temp file: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde\InsTime.bk2.txt
+2017-06-18 17:30:41 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 17:30:43 INFO  FileProcessingNew:83 - ARGS FROM CMD: [C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/, importanceofbeingearnest_01_wilde.wav, 0, 0, 1]
+2017-06-18 17:30:43 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 17:30:43 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 17:30:43 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 17:30:43 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 17:30:43 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 17:30:43 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 17:30:43 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 17:30:43 INFO  FileProcessingNew:118 - Removing tempary files from pathC:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/importanceofbeingearnest_01_wilde/
+2017-06-18 17:30:43 INFO  FileProcessingNew:69 - ***Removing temp file from Path: C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/importanceofbeingearnest_01_wilde/
+2017-06-18 17:30:43 INFO  FileProcessingNew:210 - Entering directory: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde
+2017-06-18 17:30:43 INFO  FileProcessingNew:257 - Exiting directory: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde
+2017-06-18 17:30:43 INFO  FileProcessingNew:81 - removing temp file: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde\InsTime.bk.txt
+2017-06-18 17:30:43 INFO  FileProcessingNew:81 - removing temp file: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde\InsTime.bk2.txt
+2017-06-18 17:30:43 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 17:30:44 INFO  FileProcessingNew:83 - ARGS FROM CMD: [C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/, importanceofbeingearnest_01_wilde.wav, 0, 0, 0, 14, 2, 0, 320]
+2017-06-18 17:30:44 INFO  FileProcessingNew:103 - 9-args5debug.....: 14
+2017-06-18 17:30:44 INFO  FileProcessingNew:107 - args6debug.....: 2
+2017-06-18 17:30:44 INFO  FileProcessingNew:112 - args7debug.....: 0
+2017-06-18 17:30:44 INFO  FileProcessingNew:116 - 9args8debug..a...: 320
+2017-06-18 17:30:44 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 17:30:44 INFO  FileProcessingNew:154 -  args length: 9
+2017-06-18 17:30:44 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 17:30:44 INFO  FileProcessingNew:184 - Shift bit set to: 2
+2017-06-18 17:30:44 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 17:30:44 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 320
+2017-06-18 17:30:44 INFO  FileProcessingNew:209 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 17:30:44 INFO  FileProcessingNew:214 - **********FAIL TO CREATE DIR ok*******C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/importanceofbeingearnest_01_wilde/
+2017-06-18 17:30:44 INFO  FileProcessingNew:218 - Ok: C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/importanceofbeingearnest_01_wilde/importanceofbeingearnest_01_wilde_NT_v8.txt
+2017-06-18 17:30:44 INFO  FileProcessingNew:219 - Ok2: C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/importanceofbeingearnest_01_wilde/importanceofbeingearnest_01_wilde_NT_v8.txt
+2017-06-18 17:30:44 INFO  FileProcessingNew:236 -  OUTPUTFILE_NAME:C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/importanceofbeingearnest_01_wilde/SEG_WAVTXT.txt
+2017-06-18 17:30:44 INFO  AlignMainNew:74 -  *****txtContentOrigLength:38365
+2017-06-18 17:30:44 INFO  LongAudioAlignerNew:63 - Configuring with: config.xml
+2017-06-18 17:30:44 INFO  LongAudioAlignerNew:66 - PATH: C:\Java\readingbee_audio_aligner\Aligner\config.xml
+2017-06-18 17:30:44 INFO  LongAudioAlignerNew:68 - Using config: config.xml
+2017-06-18 17:30:58 INFO  FileProcessingNew:83 - ARGS FROM CMD: [C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/, importanceofbeingearnest_01_wilde.wav, 0, 0, 1]
+2017-06-18 17:30:58 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 17:30:58 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 17:30:58 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 17:30:58 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 17:30:58 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 17:30:58 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 17:30:58 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 17:30:58 INFO  FileProcessingNew:118 - Removing tempary files from pathC:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/importanceofbeingearnest_01_wilde/
+2017-06-18 17:30:58 INFO  FileProcessingNew:69 - ***Removing temp file from Path: C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/importanceofbeingearnest_01_wilde/
+2017-06-18 17:30:58 INFO  FileProcessingNew:210 - Entering directory: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde
+2017-06-18 17:30:58 INFO  FileProcessingNew:257 - Exiting directory: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde
+2017-06-18 17:30:58 INFO  FileProcessingNew:81 - removing temp file: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde\importanceofbeingearnest_01_wilde_NT_v8.txt
+2017-06-18 17:30:58 INFO  FileProcessingNew:81 - removing temp file: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde\InsTime.bk.txt
+2017-06-18 17:30:58 INFO  FileProcessingNew:81 - removing temp file: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde\InsTime.bk2.txt
+2017-06-18 17:30:58 INFO  FileProcessingNew:81 - removing temp file: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde\SEG_WAVTXT.txt
+2017-06-18 17:30:58 INFO  FileProcessingNew:90 - removing temp file: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde\SEG_WAVTXT1.wav
+2017-06-18 17:30:58 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 17:31:01 INFO  FileProcessingNew:83 - ARGS FROM CMD: [C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/, importanceofbeingearnest_01_wilde.wav, 0, 0, 1]
+2017-06-18 17:31:01 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 17:31:01 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 17:31:01 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 17:31:01 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 17:31:01 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 17:31:01 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 17:31:01 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 17:31:01 INFO  FileProcessingNew:118 - Removing tempary files from pathC:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/importanceofbeingearnest_01_wilde/
+2017-06-18 17:31:01 INFO  FileProcessingNew:69 - ***Removing temp file from Path: C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/importanceofbeingearnest_01_wilde/
+2017-06-18 17:31:01 INFO  FileProcessingNew:210 - Entering directory: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde
+2017-06-18 17:31:01 INFO  FileProcessingNew:257 - Exiting directory: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde
+2017-06-18 17:31:01 INFO  FileProcessingNew:81 - removing temp file: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde\InsTime.bk.txt
+2017-06-18 17:31:01 INFO  FileProcessingNew:81 - removing temp file: C:\Java\Audio_Book_-_The_Importance_of_Being_Earnest\earnest_0805_librivox\importanceofbeingearnest_01_wilde\InsTime.bk2.txt
+2017-06-18 17:31:01 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 17:31:02 INFO  FileProcessingNew:83 - ARGS FROM CMD: [C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/, importanceofbeingearnest_01_wilde.wav, 0, 0, 0, 14, 2, 0, 320]
+2017-06-18 17:31:02 INFO  FileProcessingNew:103 - 9-args5debug.....: 14
+2017-06-18 17:31:02 INFO  FileProcessingNew:107 - args6debug.....: 2
+2017-06-18 17:31:02 INFO  FileProcessingNew:112 - args7debug.....: 0
+2017-06-18 17:31:02 INFO  FileProcessingNew:116 - 9args8debug..a...: 320
+2017-06-18 17:31:02 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 17:31:02 INFO  FileProcessingNew:154 -  args length: 9
+2017-06-18 17:31:02 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 17:31:02 INFO  FileProcessingNew:184 - Shift bit set to: 2
+2017-06-18 17:31:02 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 17:31:02 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 320
+2017-06-18 17:31:02 INFO  FileProcessingNew:209 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 17:31:02 INFO  FileProcessingNew:214 - **********FAIL TO CREATE DIR ok*******C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/importanceofbeingearnest_01_wilde/
+2017-06-18 17:31:02 INFO  FileProcessingNew:218 - Ok: C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/importanceofbeingearnest_01_wilde/importanceofbeingearnest_01_wilde_NT_v8.txt
+2017-06-18 17:31:02 INFO  FileProcessingNew:219 - Ok2: C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/importanceofbeingearnest_01_wilde/importanceofbeingearnest_01_wilde_NT_v8.txt
+2017-06-18 17:31:02 INFO  FileProcessingNew:236 -  OUTPUTFILE_NAME:C:/Java/Audio_Book_-_The_Importance_of_Being_Earnest/earnest_0805_librivox/importanceofbeingearnest_01_wilde/SEG_WAVTXT.txt
+2017-06-18 17:31:02 INFO  AlignMainNew:74 -  *****txtContentOrigLength:38365
+2017-06-18 17:31:02 INFO  LongAudioAlignerNew:63 - Configuring with: config.xml
+2017-06-18 17:31:02 INFO  LongAudioAlignerNew:66 - PATH: C:\Java\readingbee_audio_aligner\Aligner\config.xml
+2017-06-18 17:31:02 INFO  LongAudioAlignerNew:68 - Using config: config.xml
+2017-06-18 17:46:04 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/, storygirl_01_montgomery.wav, 0, 0, 1]
+2017-06-18 17:46:04 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 17:46:04 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 17:46:04 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 17:46:04 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 17:46:04 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 17:46:04 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 17:46:04 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 17:46:04 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/
+2017-06-18 17:46:04 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/
+2017-06-18 17:46:04 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery
+2017-06-18 17:46:04 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery
+2017-06-18 17:46:04 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 17:46:25 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/, storygirl_01_montgomery.wav, 0, 0, 1]
+2017-06-18 17:46:25 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 17:46:25 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 17:46:25 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 17:46:25 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 17:46:25 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 17:46:25 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 17:46:25 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 17:46:25 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/
+2017-06-18 17:46:25 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/
+2017-06-18 17:46:25 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery
+2017-06-18 17:46:25 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery
+2017-06-18 17:46:25 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery\InsTime.bk.txt
+2017-06-18 17:46:25 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery\InsTime.bk2.txt
+2017-06-18 17:46:25 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 17:46:26 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/, storygirl_01_montgomery.wav, 0, 0, 0, 14, 2, 0, 320]
+2017-06-18 17:46:26 INFO  FileProcessingNew:103 - 9-args5debug.....: 14
+2017-06-18 17:46:26 INFO  FileProcessingNew:107 - args6debug.....: 2
+2017-06-18 17:46:26 INFO  FileProcessingNew:112 - args7debug.....: 0
+2017-06-18 17:46:26 INFO  FileProcessingNew:116 - 9args8debug..a...: 320
+2017-06-18 17:46:26 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 17:46:26 INFO  FileProcessingNew:154 -  args length: 9
+2017-06-18 17:46:26 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 17:46:26 INFO  FileProcessingNew:184 - Shift bit set to: 2
+2017-06-18 17:46:26 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 17:46:26 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 320
+2017-06-18 17:46:26 INFO  FileProcessingNew:209 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 17:46:26 INFO  FileProcessingNew:214 - **********FAIL TO CREATE DIR ok*******F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/
+2017-06-18 17:46:26 INFO  FileProcessingNew:218 - Ok: F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/storygirl_01_montgomery_NT_v8.txt
+2017-06-18 17:46:26 INFO  FileProcessingNew:219 - Ok2: F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/storygirl_01_montgomery_NT_v8.txt
+2017-06-18 17:46:26 INFO  FileProcessingNew:236 -  OUTPUTFILE_NAME:F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/SEG_WAVTXT.txt
+2017-06-18 17:46:26 INFO  AlignMainNew:74 -  *****txtContentOrigLength:14593
+2017-06-18 17:46:26 INFO  LongAudioAlignerNew:63 - Configuring with: config.xml
+2017-06-18 17:46:26 INFO  LongAudioAlignerNew:66 - PATH: C:\Java\readingbee_audio_aligner\Aligner\config.xml
+2017-06-18 17:46:26 INFO  LongAudioAlignerNew:68 - Using config: config.xml
+2017-06-18 17:46:42 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/, storygirl_01_montgomery.wav, 0, 0, 1]
+2017-06-18 17:46:42 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 17:46:42 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 17:46:42 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 17:46:42 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 17:46:42 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 17:46:42 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 17:46:42 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 17:46:42 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/
+2017-06-18 17:46:42 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/
+2017-06-18 17:46:42 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery
+2017-06-18 17:46:42 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery
+2017-06-18 17:46:42 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery\InsTime.bk.txt
+2017-06-18 17:46:42 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery\InsTime.bk2.txt
+2017-06-18 17:46:42 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery\storygirl_01_montgomery_NT_v8.txt
+2017-06-18 17:46:42 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery\SEG_WAVTXT.txt
+2017-06-18 17:46:42 INFO  FileProcessingNew:90 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery\SEG_WAVTXT1.wav
+2017-06-18 17:46:42 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 17:47:03 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/, storygirl_01_montgomery.wav, 0, 0, 1]
+2017-06-18 17:47:03 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 17:47:03 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 17:47:03 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 17:47:03 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 17:47:03 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 17:47:03 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 17:47:03 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 17:47:03 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/
+2017-06-18 17:47:03 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/
+2017-06-18 17:47:03 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery
+2017-06-18 17:47:03 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery
+2017-06-18 17:47:03 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery\InsTime.bk.txt
+2017-06-18 17:47:03 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery\InsTime.bk2.txt
+2017-06-18 17:47:03 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 17:47:12 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/, storygirl_01_montgomery.wav, 0, 0, 1]
+2017-06-18 17:47:12 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 17:47:12 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 17:47:12 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 17:47:12 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 17:47:12 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 17:47:12 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 17:47:12 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 17:47:12 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/
+2017-06-18 17:47:12 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/
+2017-06-18 17:47:12 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery
+2017-06-18 17:47:12 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery
+2017-06-18 17:47:12 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery\InsTime.bk.txt
+2017-06-18 17:47:12 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery\InsTime.bk2.txt
+2017-06-18 17:47:12 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 17:47:13 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/, storygirl_01_montgomery.wav, 0, 0, 0, 14, 2, 0, 320]
+2017-06-18 17:47:13 INFO  FileProcessingNew:103 - 9-args5debug.....: 14
+2017-06-18 17:47:13 INFO  FileProcessingNew:107 - args6debug.....: 2
+2017-06-18 17:47:13 INFO  FileProcessingNew:112 - args7debug.....: 0
+2017-06-18 17:47:13 INFO  FileProcessingNew:116 - 9args8debug..a...: 320
+2017-06-18 17:47:13 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 17:47:13 INFO  FileProcessingNew:154 -  args length: 9
+2017-06-18 17:47:13 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 17:47:13 INFO  FileProcessingNew:184 - Shift bit set to: 2
+2017-06-18 17:47:13 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 17:47:13 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 320
+2017-06-18 17:47:13 INFO  FileProcessingNew:209 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 17:47:13 INFO  FileProcessingNew:214 - **********FAIL TO CREATE DIR ok*******F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/
+2017-06-18 17:47:13 INFO  FileProcessingNew:218 - Ok: F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/storygirl_01_montgomery_NT_v8.txt
+2017-06-18 17:47:13 INFO  FileProcessingNew:219 - Ok2: F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/storygirl_01_montgomery_NT_v8.txt
+2017-06-18 17:47:13 INFO  FileProcessingNew:236 -  OUTPUTFILE_NAME:F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/SEG_WAVTXT.txt
+2017-06-18 17:47:13 INFO  AlignMainNew:74 -  *****txtContentOrigLength:14554
+2017-06-18 17:47:13 INFO  LongAudioAlignerNew:63 - Configuring with: config.xml
+2017-06-18 17:47:13 INFO  LongAudioAlignerNew:66 - PATH: C:\Java\readingbee_audio_aligner\Aligner\config.xml
+2017-06-18 17:47:13 INFO  LongAudioAlignerNew:68 - Using config: config.xml
+2017-06-18 17:53:37 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/, storygirl_01_montgomery.wav, 0, 0, 1]
+2017-06-18 17:53:37 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 17:53:37 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 17:53:37 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 17:53:37 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 17:53:37 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 17:53:37 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 17:53:37 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 17:53:37 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/
+2017-06-18 17:53:37 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/
+2017-06-18 17:53:37 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery
+2017-06-18 17:53:37 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery
+2017-06-18 17:53:37 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery\InsTime.bk.txt
+2017-06-18 17:53:38 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery\InsTime.bk2.txt
+2017-06-18 17:53:38 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery\storygirl_01_montgomery_NT_v8.txt
+2017-06-18 17:53:38 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery\SEG_WAVTXT.txt
+2017-06-18 17:53:38 INFO  FileProcessingNew:90 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery\SEG_WAVTXT1.wav
+2017-06-18 17:53:38 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 17:53:57 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/, storygirl_01_montgomery.wav, 0, 0, 1]
+2017-06-18 17:53:57 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 17:53:57 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 17:53:57 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 17:53:57 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 17:53:57 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 17:53:57 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 17:53:57 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 17:53:57 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/
+2017-06-18 17:53:57 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/
+2017-06-18 17:53:57 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery
+2017-06-18 17:53:57 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery
+2017-06-18 17:53:57 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery\InsTime.bk.txt
+2017-06-18 17:53:57 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery\InsTime.bk2.txt
+2017-06-18 17:53:58 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 17:54:01 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/, storygirl_01_montgomery.wav, 0, 0, 1]
+2017-06-18 17:54:01 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 17:54:01 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 17:54:01 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 17:54:01 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 17:54:01 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 17:54:01 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 17:54:01 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 17:54:01 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/
+2017-06-18 17:54:01 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/
+2017-06-18 17:54:01 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery
+2017-06-18 17:54:01 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery
+2017-06-18 17:54:01 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery\InsTime.bk.txt
+2017-06-18 17:54:01 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery\InsTime.bk2.txt
+2017-06-18 17:54:01 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 17:54:06 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/, storygirl_01_montgomery.wav, 0, 0, 1]
+2017-06-18 17:54:06 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 17:54:06 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 17:54:06 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 17:54:06 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 17:54:06 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 17:54:06 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 17:54:06 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 17:54:06 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/
+2017-06-18 17:54:06 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/
+2017-06-18 17:54:06 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery
+2017-06-18 17:54:06 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery
+2017-06-18 17:54:06 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery\InsTime.bk.txt
+2017-06-18 17:54:06 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery\InsTime.bk2.txt
+2017-06-18 17:54:06 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 17:54:07 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/, storygirl_01_montgomery.wav, 0, 0, 0, 14, 2, 0, 320]
+2017-06-18 17:54:07 INFO  FileProcessingNew:103 - 9-args5debug.....: 14
+2017-06-18 17:54:07 INFO  FileProcessingNew:107 - args6debug.....: 2
+2017-06-18 17:54:07 INFO  FileProcessingNew:112 - args7debug.....: 0
+2017-06-18 17:54:07 INFO  FileProcessingNew:116 - 9args8debug..a...: 320
+2017-06-18 17:54:07 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 17:54:07 INFO  FileProcessingNew:154 -  args length: 9
+2017-06-18 17:54:07 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 17:54:07 INFO  FileProcessingNew:184 - Shift bit set to: 2
+2017-06-18 17:54:07 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 17:54:07 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 320
+2017-06-18 17:54:07 INFO  FileProcessingNew:209 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 17:54:07 INFO  FileProcessingNew:214 - **********FAIL TO CREATE DIR ok*******F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/
+2017-06-18 17:54:07 INFO  FileProcessingNew:218 - Ok: F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/storygirl_01_montgomery_NT_v8.txt
+2017-06-18 17:54:07 INFO  FileProcessingNew:219 - Ok2: F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/storygirl_01_montgomery_NT_v8.txt
+2017-06-18 17:54:07 INFO  FileProcessingNew:236 -  OUTPUTFILE_NAME:F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/SEG_WAVTXT.txt
+2017-06-18 17:54:07 INFO  AlignMainNew:74 -  *****txtContentOrigLength:14554
+2017-06-18 17:54:07 INFO  LongAudioAlignerNew:63 - Configuring with: config.xml
+2017-06-18 17:54:07 INFO  LongAudioAlignerNew:66 - PATH: C:\Java\readingbee_audio_aligner\Aligner\config.xml
+2017-06-18 17:54:07 INFO  LongAudioAlignerNew:68 - Using config: config.xml
+2017-06-18 18:01:44 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/, storygirl_01_montgomery.wav, 0, 0, 1]
+2017-06-18 18:01:44 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 18:01:44 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 18:01:44 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 18:01:44 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 18:01:44 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 18:01:44 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 18:01:44 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 18:01:44 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/
+2017-06-18 18:01:44 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/
+2017-06-18 18:01:44 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery
+2017-06-18 18:01:44 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery
+2017-06-18 18:01:44 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery\InsTime.bk.txt
+2017-06-18 18:01:44 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery\InsTime.bk2.txt
+2017-06-18 18:01:44 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery\storygirl_01_montgomery_NT_v8.txt
+2017-06-18 18:01:44 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery\SEG_WAVTXT.txt
+2017-06-18 18:01:44 INFO  FileProcessingNew:90 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery\SEG_WAVTXT1.wav
+2017-06-18 18:01:44 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 18:02:04 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/, storygirl_01_montgomery.wav, 0, 0, 1]
+2017-06-18 18:02:04 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 18:02:04 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 18:02:04 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 18:02:04 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 18:02:04 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 18:02:04 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 18:02:04 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 18:02:04 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/
+2017-06-18 18:02:04 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/
+2017-06-18 18:02:04 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery
+2017-06-18 18:02:04 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery
+2017-06-18 18:02:04 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery\InsTime.bk.txt
+2017-06-18 18:02:05 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery\InsTime.bk2.txt
+2017-06-18 18:02:05 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 18:02:29 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/, storygirl_01_montgomery.wav, 0, 0, 1]
+2017-06-18 18:02:29 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 18:02:29 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 18:02:30 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 18:02:30 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 18:02:30 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 18:02:30 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 18:02:30 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 18:02:30 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/
+2017-06-18 18:02:30 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/
+2017-06-18 18:02:30 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery
+2017-06-18 18:02:30 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery
+2017-06-18 18:02:30 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery\InsTime.bk.txt
+2017-06-18 18:02:30 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery\InsTime.bk2.txt
+2017-06-18 18:02:30 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 18:02:30 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/, storygirl_01_montgomery.wav, 0, 0, 1]
+2017-06-18 18:02:30 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 18:02:30 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 18:02:30 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 18:02:30 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 18:02:30 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 18:02:30 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 18:02:30 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 18:02:30 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/
+2017-06-18 18:02:30 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/
+2017-06-18 18:02:30 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery
+2017-06-18 18:02:30 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery
+2017-06-18 18:02:30 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery\InsTime.bk.txt
+2017-06-18 18:02:30 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 18:02:31 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/, storygirl_01_montgomery.wav, 0, 0, 1]
+2017-06-18 18:02:31 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 18:02:31 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 18:02:31 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 18:02:31 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 18:02:31 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 18:02:31 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 18:02:31 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 18:02:31 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/
+2017-06-18 18:02:31 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/
+2017-06-18 18:02:31 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery
+2017-06-18 18:02:32 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery
+2017-06-18 18:02:32 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery\InsTime.bk2.txt
+2017-06-18 18:02:32 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery\InsTime.bk.txt
+2017-06-18 18:02:32 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 18:02:32 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/, storygirl_01_montgomery.wav, 0, 0, 1]
+2017-06-18 18:02:32 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 18:02:32 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 18:02:32 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 18:02:32 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 18:02:32 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 18:02:32 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 18:02:32 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 18:02:32 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/
+2017-06-18 18:02:32 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/
+2017-06-18 18:02:32 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery
+2017-06-18 18:02:32 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery
+2017-06-18 18:02:32 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_01_montgomery\InsTime.bk.txt
+2017-06-18 18:02:32 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 18:02:33 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/, storygirl_01_montgomery.wav, 0, 0, 0, 14, 2, 0, 320]
+2017-06-18 18:02:33 INFO  FileProcessingNew:103 - 9-args5debug.....: 14
+2017-06-18 18:02:33 INFO  FileProcessingNew:107 - args6debug.....: 2
+2017-06-18 18:02:33 INFO  FileProcessingNew:112 - args7debug.....: 0
+2017-06-18 18:02:33 INFO  FileProcessingNew:116 - 9args8debug..a...: 320
+2017-06-18 18:02:33 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 18:02:33 INFO  FileProcessingNew:154 -  args length: 9
+2017-06-18 18:02:33 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 18:02:33 INFO  FileProcessingNew:184 - Shift bit set to: 2
+2017-06-18 18:02:33 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 18:02:33 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 320
+2017-06-18 18:02:33 INFO  FileProcessingNew:209 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 18:02:33 INFO  FileProcessingNew:214 - **********FAIL TO CREATE DIR ok*******F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/
+2017-06-18 18:02:33 INFO  FileProcessingNew:218 - Ok: F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/storygirl_01_montgomery_NT_v8.txt
+2017-06-18 18:02:33 INFO  FileProcessingNew:219 - Ok2: F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/storygirl_01_montgomery_NT_v8.txt
+2017-06-18 18:02:34 INFO  FileProcessingNew:236 -  OUTPUTFILE_NAME:F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_01_montgomery/SEG_WAVTXT.txt
+2017-06-18 18:02:34 INFO  AlignMainNew:74 -  *****txtContentOrigLength:14554
+2017-06-18 18:02:34 INFO  LongAudioAlignerNew:63 - Configuring with: config.xml
+2017-06-18 18:02:34 INFO  LongAudioAlignerNew:66 - PATH: C:\Java\readingbee_audio_aligner\Aligner\config.xml
+2017-06-18 18:02:34 INFO  LongAudioAlignerNew:68 - Using config: config.xml
+2017-06-18 20:15:47 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/, storygirl_02_montgomery.wav, 0, 0, 1]
+2017-06-18 20:15:47 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 20:15:47 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 20:15:47 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 20:15:47 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 20:15:47 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 20:15:47 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 20:15:47 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 20:15:47 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_02_montgomery/
+2017-06-18 20:15:47 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_02_montgomery/
+2017-06-18 20:15:47 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_02_montgomery
+2017-06-18 20:15:47 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_02_montgomery
+2017-06-18 20:15:47 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 20:15:57 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/, storygirl_02_montgomery.wav, 0, 0, 1]
+2017-06-18 20:15:57 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 20:15:57 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 20:15:57 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 20:15:57 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 20:15:57 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 20:15:57 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 20:15:57 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 20:15:57 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_02_montgomery/
+2017-06-18 20:15:57 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_02_montgomery/
+2017-06-18 20:15:57 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_02_montgomery
+2017-06-18 20:15:57 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_02_montgomery
+2017-06-18 20:15:57 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_02_montgomery\InsTime.bk.txt
+2017-06-18 20:15:57 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_02_montgomery\InsTime.bk2.txt
+2017-06-18 20:15:57 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 20:16:29 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/, storygirl_02_montgomery.wav, 0, 0, 1]
+2017-06-18 20:16:29 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 20:16:29 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 20:16:29 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 20:16:29 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 20:16:29 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 20:16:29 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 20:16:29 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 20:16:29 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_02_montgomery/
+2017-06-18 20:16:29 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_02_montgomery/
+2017-06-18 20:16:29 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_02_montgomery
+2017-06-18 20:16:29 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_02_montgomery
+2017-06-18 20:16:29 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_02_montgomery\InsTime.bk.txt
+2017-06-18 20:16:29 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_02_montgomery\InsTime.bk2.txt
+2017-06-18 20:16:29 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 20:16:37 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/, storygirl_02_montgomery.wav, 0, 0, 1]
+2017-06-18 20:16:37 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 20:16:37 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 20:16:37 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 20:16:37 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 20:16:37 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 20:16:37 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 20:16:37 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 20:16:37 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_02_montgomery/
+2017-06-18 20:16:37 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_02_montgomery/
+2017-06-18 20:16:37 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_02_montgomery
+2017-06-18 20:16:37 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_02_montgomery
+2017-06-18 20:16:37 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_02_montgomery\InsTime.bk.txt
+2017-06-18 20:16:37 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_02_montgomery\InsTime.bk2.txt
+2017-06-18 20:16:37 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 20:16:38 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/, storygirl_02_montgomery.wav, 0, 0, 1]
+2017-06-18 20:16:38 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 20:16:38 INFO  FileProcessingNew:154 -  args length: 5
+2017-06-18 20:16:38 INFO  FileProcessingNew:176 -  New isProcessMarkedFile: 1
+2017-06-18 20:16:38 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 20:16:38 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 20:16:38 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 55
+2017-06-18 20:16:38 INFO  FileProcessingNew:204 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 20:16:38 INFO  FileProcessingNew:118 - Removing tempary files from pathF:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_02_montgomery/
+2017-06-18 20:16:38 INFO  FileProcessingNew:69 - ***Removing temp file from Path: F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_02_montgomery/
+2017-06-18 20:16:38 INFO  FileProcessingNew:210 - Entering directory: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_02_montgomery
+2017-06-18 20:16:38 INFO  FileProcessingNew:257 - Exiting directory: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_02_montgomery
+2017-06-18 20:16:38 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_02_montgomery\InsTime.bk.txt
+2017-06-18 20:16:38 INFO  FileProcessingNew:81 - removing temp file: F:\_backup_books_processing\Audio_Book_-_Story_Girl\story_girl_librivox\storygirl_02_montgomery\InsTime.bk2.txt
+2017-06-18 20:16:38 INFO  FileProcessingNew:120 - Done removing tempary files
+2017-06-18 20:16:39 INFO  FileProcessingNew:83 - ARGS FROM CMD: [F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/, storygirl_02_montgomery.wav, 0, 0, 0, 14, 2, 0, 320]
+2017-06-18 20:16:39 INFO  FileProcessingNew:103 - 9-args5debug.....: 14
+2017-06-18 20:16:39 INFO  FileProcessingNew:107 - args6debug.....: 2
+2017-06-18 20:16:39 INFO  FileProcessingNew:112 - args7debug.....: 0
+2017-06-18 20:16:39 INFO  FileProcessingNew:116 - 9args8debug..a...: 320
+2017-06-18 20:16:39 INFO  FileProcessingNew:139 - INPUT OK
+2017-06-18 20:16:39 INFO  FileProcessingNew:154 -  args length: 9
+2017-06-18 20:16:39 INFO  FileProcessingNew:180 -  New speechSpeedCharPerSec: 14.0
+2017-06-18 20:16:39 INFO  FileProcessingNew:184 - Shift bit set to: 2
+2017-06-18 20:16:39 INFO  FileProcessingNew:190 - NOTuseOldFindReplace.....: 0
+2017-06-18 20:16:39 INFO  FileProcessingNew:195 - Wav Clip Sec.....: 320
+2017-06-18 20:16:39 INFO  FileProcessingNew:209 - !!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+2017-06-18 20:16:39 INFO  FileProcessingNew:214 - **********FAIL TO CREATE DIR ok*******F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_02_montgomery/
+2017-06-18 20:16:39 INFO  FileProcessingNew:218 - Ok: F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_02_montgomery/storygirl_02_montgomery_NT_v8.txt
+2017-06-18 20:16:39 INFO  FileProcessingNew:219 - Ok2: F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_02_montgomery/storygirl_02_montgomery_NT_v8.txt
+2017-06-18 20:16:39 INFO  FileProcessingNew:236 -  OUTPUTFILE_NAME:F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_02_montgomery/SEG_WAVTXT.txt
+2017-06-18 20:16:43 INFO  AlignMainNew:74 -  *****txtContentOrigLength:14449
+2017-06-18 20:16:43 INFO  LongAudioAlignerNew:63 - Configuring with: config.xml
+2017-06-18 20:16:43 INFO  LongAudioAlignerNew:66 - PATH: C:\Java\readingbee_audio_aligner\Aligner\config.xml
+2017-06-18 20:16:43 INFO  LongAudioAlignerNew:68 - Using config: config.xml
+2017-06-18 20:16:43 INFO  LongAudioAlignerNew:85 - textLength: 14449
+2017-06-18 20:16:43 INFO  LongAudioAlignerNew:92 - textLengthCS2: 13741
+2017-06-18 20:16:47 INFO  LongAudioAlignerNew:97 - textLengthCS3: 13741
+2017-06-18 20:16:47 INFO  LongAudioAlignerNew:102 - textLengthCS4: 13741
+2017-06-18 20:17:10 INFO  LongAudioAlignerNew:106 - textLengthCS5: 13741
+2017-06-18 20:17:10 INFO  LongAudioAlignerNew:116 - Matched Result Length:5910
+2017-06-18 20:17:13 INFO  FileProcessingNew:303 - ****MARK2...0.13
+2017-06-18 20:17:13 INFO  FileProcessingNew:304 - ****MARK3...7468
+2017-06-18 20:17:13 INFO  FileProcessingNew:305 - ****MARK4...30
+2017-06-18 20:17:13 INFO  FileProcessingNew:306 - ****MARK5....
+
+"[BEGIN00:27]Felix, wake up," I whispered, shaking him.
+
+"What's the matter[END00:29][BEGIN00:29]?" he murmured reluctantly.
+
+"It's morning.  Let's get up and go down and out[END00:33][BEGIN00:33].  I can't wait another minute to see the places father has told us of[END00:36][BEGIN00:36]."
+
+We slipped out of bed and dressed, without arousing Dan, who was still slumbering soundly, his mouth wide open, and his bed-clothes kicked off on the floor[END00:44][BEGIN00:44].  I had hard work to keep Felix from trying to see if he could "shy" a marble into that tempting open mouth[END00:49][BEGIN00:49].  I told him it would waken Dan, who would then likely insist on getting up and accompanying us, and it would be so much nicer to go by ourselves for the first time[END00:56][BEGIN00:56].
+
+Everything was very still as we crept downstairs[END01:00][BEGIN01:00].  Out in the kitchen we heard some one, presumably Uncle Alec, lighting the fire[END01:04][BEGIN01:04]; but the heart of house had not yet begun to beat for the day[END01:07][BEGIN01:07].
+
+We paused a moment in the hall to look at the big "Grandfather" clock[END01:11][BEGIN01:11].  It was not going, but it seemed like an old, familiar acquaintance to us, with the gilt balls on its three peaks[END01:17][BEGIN01:17]; the little dial and pointer which would indicate the changes of the moon, and the very dent in its wooden door which father had made when he was a boy[END01:23][BEGIN01:23], by kicking it in a fit of naughtiness.
+
+Then we opened the front door and stepped out, rapture swelling in our bosoms[END01:29][BEGIN01:29].  There was a rare breeze from the south blowing to meet us[END01:32][BEGIN01:32]; the shadows of the spruces were long and clear-cut[END01:35][BEGIN01:35]; the exquisite skies of early morning, blue and wind-winnowed, were over us[END01:39][BEGIN01:39]; away to the west, beyond the brook field, was a long valley and a hill purple with firs and laced with still leafless beeches and maples[END01:47][BEGIN01:47].
+
+Behind the house was a grove of fir and spruce, a dim, cool place where the winds were fond of purring and where there was always a resinous, woodsy odour[END01:56][BEGIN01:56].  On the further side of it was a thick plantation of slender silver birches and whispering poplars[END02:02][BEGIN02:02]; and beyond it was Uncle Roger's house.
+
+Right before us, girt about with its trim spruce hedge, was the famous King orchard[END02:09][BEGIN02:09], the history of which was woven into our earliest recollections[END02:12][BEGIN02:12].  We knew all about it, from father's descriptions, and in fancy we had roamed in it many a time and oft[END02:17][BEGIN02:17].
+
+It was now nearly sixty years since it had had its beginning, when Grandfather King brought his bride home[END02:22][BEGIN02:22].  Before the wedding he had fenced off the big south meadow that sloped to the sun[END02:26][BEGIN02:26]; it was the finest, most fertile field on the farm, and the neighbours told young Abraham King that he would raise many a fine crop of wheat in that meadow[END02:34][BEGIN02:34].  Abraham King smiled and, being a man of few words, said nothing[END02:38][BEGIN02:38]; but in his mind he had a vision of the years to be, and in that vision he saw, not rippling acres of harvest gold[END02:43][BEGIN02:43], but great, leafy avenues of wide-spreading trees laden with fruit to gladden the eyes of children and grandchildren yet unborn[END02:50][BEGIN02:50].
+
+It was a vision to develop slowly into fulfilment[END02:53][BEGIN02:53].  Grandfather King was in no hurry.  He did not set his whole orchard out at once, for he wished it to grow with his life and history[END02:59][BEGIN02:59], and be bound up with all of good and joy that should come to his household[END03:03][BEGIN03:03].  So the morning after he had brought his young wife home they went together to the south meadow and planted their bridal trees[END03:09][BEGIN03:09].  These trees were no longer living; but they had been when father was a boy, and every spring bedecked themselves in blossom as delicately tinted as Elizabeth King's face when she walked through the old south meadow in the morn of her life and love[END03:21][BEGIN03:21].
+
+When a son was born to Abraham and Elizabeth a tree was planted in the orchard for him[END03:25][BEGIN03:25].  They had fourteen children in all, and each child had its "birth tree[END03:30][BEGIN03:30]."  Every family festival was commemorated in like fashion, and every beloved visitor who spent a night under their roof was expected to plant a tree in the orchard[END03:38][BEGIN03:38].  So it came to pass that every tree in it was a fair green monument to some love or delight of the vanished years[END03:44][BEGIN03:44]. And each grandchild had its tree, there, also, set out by grandfather when the tidings of its birth reached him[END03:49][BEGIN03:49]; not always an apple tree--perhaps it was a plum, or cherry or pear[END03:53][BEGIN03:53].  But it was always known by the name of the person for whom, or by whom, it was planted[END03:57][BEGIN03:57]; and Felix and I knew as much about "Aunt Felicity's pears," and "Aunt Julia's cherries," and "Uncle Alec's apples," and the "Rev[END04:04][BEGIN04:04]. Mr. Scott's plums," as if we had been born and bred among them[END04:07][BEGIN04:07].
+
+And now we had come to the orchard; it was before us[END04:11][BEGIN04:11]; we had only to open that little whitewashed gate in the hedge and we might find ourselves in its storied domain[END04:16][BEGIN04:16].  But before we reached the gate we glanced to our left, along the grassy, spruce-bordered lane which led over to Uncle Roger's[END04:23][BEGIN04:23]; and at the entrance of that lane we saw a girl standing, with a gray cat at her feet[END04:27][BEGIN04:27].  She lifted her hand and beckoned blithely to us; and, the orchard forgotten, we followed her summons[END04:33][BEGIN04:33].  For we knew that this must be the Story Girl; and in that gay and graceful gesture was an allurement not to be gainsaid or denied[END04:40][BEGIN04:40].
+
+We looked at her as we drew near with such interest that we forgot to feel shy[END04:44][BEGIN04:44].  No, she was not pretty.  She was tall for her fourteen years, slim and straight[END04:49][BEGIN04:49]; around her long, white face--rather too long and too white--fell sleek, dark-brown curls, tied above either ear with rosettes of scarlet ribbon[END04:58][BEGIN04:58]. Her large, curving mouth was as red as a poppy, and she had brilliant, almond-shaped, hazel eyes[END05:04][BEGIN05:04]; but we did not think her pretty.
+
+Then she spoke[END05:07][BEGIN05:07]; she said,
+
+"Good morning."
+
+Never had we heard a voice like hers[END05:12][BEGIN05:12].  Never, in all my life since, have I heard such a voice[END05:15][BEGIN05:15].  I cannot describe it.  I might say it was clear; I might say it was sweet[END05:19][BEGIN05:19]; I might say it was vibrant and far-reaching and bell-like[END05:23][BEGIN05:23]; all this would be true, but it would give you no real idea of the peculiar quality which made the Story Girl's voice what it was[END05:29][BEGIN05:29].
+
+If voices had colour, hers would have been like a rainbow[END05:34][BEGIN05:34].  It made words LIVE.  Whatever she said became a breathing entity, not a mere verbal statement or utterance[END05:41][BEGIN05:41].  Felix and I were too young to understand or analyze the impression it made upon us[END05:45]
+2017-06-18 20:17:13 INFO  FileProcessingNew:397 - ##############FILE APPEND OK#############
+2017-06-18 20:17:13 INFO  FileProcessingNew:410 - MARK1
+2017-06-18 20:17:13 INFO  FileProcessingNew:414 - MARK2
+2017-06-18 20:17:13 INFO  FileProcessingNew:423 - MARK3
+2017-06-18 20:17:13 INFO  FileProcessingNew:433 - MARK5
+2017-06-18 20:17:17 INFO  FileProcessingNew:448 - MARK6
+2017-06-18 20:17:17 INFO  FileProcessingNew:451 - Removing: F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_02_montgomery/SEG_WAVTXT1.wav
+2017-06-18 20:17:17 INFO  FileProcessingNew:468 - MARK7
+2017-06-18 20:17:17 INFO  FileProcessingNew:471 - MARK8
+2017-06-18 20:17:17 INFO  AlignMainNew:74 -  *****txtContentOrigLength:8323
+2017-06-18 20:17:17 INFO  LongAudioAlignerNew:63 - Configuring with: config.xml
+2017-06-18 20:17:17 INFO  LongAudioAlignerNew:66 - PATH: C:\Java\readingbee_audio_aligner\Aligner\config.xml
+2017-06-18 20:17:17 INFO  LongAudioAlignerNew:68 - Using config: config.xml
+2017-06-18 20:17:17 INFO  LongAudioAlignerNew:85 - textLength: 8323
+2017-06-18 20:17:17 INFO  LongAudioAlignerNew:92 - textLengthCS2: 7871
+2017-06-18 20:17:20 INFO  LongAudioAlignerNew:97 - textLengthCS3: 7871
+2017-06-18 20:17:20 INFO  LongAudioAlignerNew:102 - textLengthCS4: 7871
+2017-06-18 20:17:42 INFO  LongAudioAlignerNew:106 - textLengthCS5: 7871
+2017-06-18 20:17:42 INFO  LongAudioAlignerNew:116 - Matched Result Length:5935
+2017-06-18 20:17:44 INFO  FileProcessingNew:303 - ****MARK2...0.67
+2017-06-18 20:17:44 INFO  FileProcessingNew:304 - ****MARK3...7760
+2017-06-18 20:17:44 INFO  FileProcessingNew:305 - ****MARK4...30
+2017-06-18 20:17:44 INFO  FileProcessingNew:306 - ****MARK5...; [BEGIN05:45]but we instantly felt at her greeting that it WAS a good morning--a surpassingly good morning -- the very best morning that had ever happened in this most excellent of worlds[END05:54][BEGIN05:54].
+
+"You are Felix and Beverley," she went on, shaking our hands with an air of frank comradeship, which was very different from the shy, feminine advances of Felicity and Cecily[END06:04][BEGIN06:04].  From that moment we were as good friends as if we had known each other for a hundred years[END06:08][BEGIN06:08].  "I am glad to see you.  I was so disappointed I couldn't go over last night[END06:13][BEGIN06:13].  I got up early this morning, though, for I felt sure you would be up early, too, and that you'd like to have me tell you about things[END06:19][BEGIN06:19].  I can tell things so much better than Felicity or Cecily[END06:21][BEGIN06:21].  Do you think Felicity is VERY pretty?"
+
+"She's the prettiest girl I ever saw," I said enthusiastically, remembering that Felicity had called me handsome[END06:30][BEGIN06:30].
+
+"The boys all think so," said the Story Girl, not, I fancied, quite well pleased[END06:34][BEGIN06:34].  "And I suppose she is.  She is a splendid cook, too, though she is only twelve[END06:39][BEGIN06:39].  I can't cook.  I am trying to learn, but I don't make much progress[END06:42][BEGIN06:42].  Aunt Olivia says I haven't enough natural gumption ever to be a cook[END06:46][BEGIN06:46]; but I'd love to be able to make as good cakes and pies as Felicity can make[END06:49][BEGIN06:49]. But then, Felicity is stupid.  It's not ill-natured of me to say that[END06:53][BEGIN06:53].  It's just the truth, and you'd soon find it out for yourselves[END06:56][BEGIN06:56].  I like Felicity very well, but she IS stupid. Cecily is ever so much cleverer[END07:01][BEGIN07:01].  Cecily's a dear.  So is Uncle Alec; and Aunt Janet is pretty nice, too[END07:05][BEGIN07:05]."
+
+"What is Aunt Olivia like?" asked Felix.
+
+"Aunt Olivia is very pretty[END07:09][BEGIN07:09].  She is just like a pansy--all velvety and purply and goldy[END07:13][BEGIN07:13]."
+
+Felix and I SAW, somewhere inside of our heads, a velvet and purple and gold pansy-woman, just as the Story Girl spoke[END07:20][BEGIN07:20].
+
+"But is she NICE?" I asked.  That was the main question about grown-ups[END07:25][BEGIN07:25].  Their looks mattered little to us.
+
+"She is lovely[END07:28][BEGIN07:28].  But she is twenty-nine, you know.  That's pretty old[END07:31][BEGIN07:31].  She doesn't bother me much.  Aunt Janet says that I'd have no bringing up at all, if it wasn't for her[END07:36][BEGIN07:36].  Aunt Olivia says children should just be let COME up--that everything else is settled for them long before they are born[END07:42][BEGIN07:42].  I don't understand that.  Do you?"
+
+No, we did not[END07:45][BEGIN07:45].  But it was our experience that grown-ups had a habit of saying things hard to understand[END07:50][BEGIN07:50].
+
+"What is Uncle Roger like?" was our next question[END07:53][BEGIN07:53].
+
+"Well, I like Uncle Roger," said the Story Girl meditatively[END07:56][BEGIN07:56]. "He is big and jolly.  But he teases people too much[END08:00][BEGIN08:00].  You ask him a serious question and you get a ridiculous answer[END08:03][BEGIN08:03].  He hardly ever scolds or gets cross, though, and THAT is something[END08:06][BEGIN08:06]. He is an old bachelor."
+
+"Doesn't he ever mean to get married[END08:09][BEGIN08:09]?" asked Felix.
+
+"I don't know.  Aunt Olivia wishes he would, because she's tired keeping house for him, and she wants to go to Aunt Julia in California[END08:17][BEGIN08:17].  But she says he'll never get married, because he is looking for perfection, and when he finds her she won't have HIM[END08:23][BEGIN08:23]."
+
+By this time we were all sitting down on the gnarled roots of the spruces, and the big gray cat came over and made friends with us[END08:30][BEGIN08:30]. He was a lordly animal, with a silver-gray coat beautifully marked with darker stripes[END08:34][BEGIN08:34].  With such colouring most cats would have had white or silver feet[END08:38][BEGIN08:38]; but he had four black paws and a black nose.  Such points gave him an air of distinction, and marked him out as quite different from the common or garden variety of cats[END08:46][BEGIN08:46].  He seemed to be a cat with a tolerably good opinion of himself, and his response to our advances was slightly tinged with condescension[END08:53][BEGIN08:53].
+
+"This isn't Topsy, is it?" I asked.  I knew at once that the question was a foolish one[END08:58][BEGIN08:58].  Topsy, the cat of which father had talked, had flourished thirty years before, and all her nine lives could scarcely have lasted so long[END09:05][BEGIN09:05].
+
+"No, but it is Topsy's great-great-great-great-grandson," said the Story Girl gravely[END09:10][BEGIN09:10].  "His name is Paddy and he is my own particular cat[END09:13][BEGIN09:13].  We have barn cats, but Paddy never associates with them[END09:16][BEGIN09:16].  I am very good friends with all cats.  They are so sleek and comfortable and dignified[END09:21][BEGIN09:21].  And it is so easy to make them happy.  Oh, I'm so glad you boys have come to live here[END09:26][BEGIN09:26]. Nothing ever happens here, except days, so we have to make our own good times[END09:30][BEGIN09:30].  We were short of boys before--only Dan and Peter to four girls[END09:34][BEGIN09:34]."
+
+"FOUR girls?  Oh, yes, Sara Ray.  Felicity mentioned her[END09:38][BEGIN09:38].  What is she like?  Where does she live?"
+
+"Just down the hill[END09:41][BEGIN09:41].  You can't see the house for the spruce bush.  Sara is a nice girl[END09:44][BEGIN09:44].  She's only eleven, and her mother is dreadfully strict[END09:47][BEGIN09:47].  She never allows Sara to read a single story. JUST you fancy[END09:50][BEGIN09:50]!  Sara's conscience is always troubling her for doing things she's sure her mother won't approve, but it never prevents her from doing them[END09:56][BEGIN09:56].  It only spoils her fun.  Uncle Roger says that a mother who won't let you do anything, and a conscience that won't let you enjoy anything is an awful combination[END10:04][BEGIN10:04], and he doesn't wonder Sara is pale and thin and nervous[END10:07][BEGIN10:07].  But, between you and me, I believe the real reason is that her mother doesn't give her half enough to eat[END10:12][BEGIN10:12].  Not that she's mean, you know--but she thinks it isn't healthy for children to eat much, or anything but certain things[END10:17][BEGIN10:17].  Isn't it fortunate we weren't born into that sort of a family[END10:20][BEGIN10:20]?"
+
+"I think it's awfully lucky we were all born into the same family," Felix remarked[END10:25][BEGIN10:25].
+
+"Isn't it?  I've often thought so.  And I've often thought what a dreadful thing it would have been if Grandfather and Grandmother King had never got married to each other[END10:32][BEGIN10:32].  I don't suppose there would have been a single one of us children here at all[END10:35][BEGIN10:35]; or if we were, we would be part somebody else and that would be almost as bad[END10:39][BEGIN10:39].  When I think it all over I can't feel too thankful that Grandfather and Grandmother King happened to marry each other[END10:44][BEGIN10:44], when there were so many other people they might have married[END10:47][BEGIN10:47]."
+
+Felix and I shivered.  We felt suddenly that we had escaped a dreadful danger--the danger of having been born somebody else[END10:54][BEGIN10:54]. But it took the Story Girl to make us realize just how dreadful it was and what a terrible risk we had run years before we, or our parents either, had existed[END11:02][BEGIN11:02].
+
+"Who lives over there[END11:04]
+2017-06-18 20:17:44 INFO  FileProcessingNew:397 - ##############FILE APPEND OK#############
+2017-06-18 20:17:44 INFO  FileProcessingNew:410 - MARK1
+2017-06-18 20:17:44 INFO  FileProcessingNew:414 - MARK2
+2017-06-18 20:17:44 INFO  FileProcessingNew:423 - MARK3
+2017-06-18 20:17:44 INFO  FileProcessingNew:433 - MARK5
+2017-06-18 20:17:46 INFO  FileProcessingNew:448 - MARK6
+2017-06-18 20:17:46 INFO  FileProcessingNew:451 - Removing: F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_02_montgomery/SEG_WAVTXT2.wav
+2017-06-18 20:17:46 INFO  FileProcessingNew:468 - MARK7
+2017-06-18 20:17:46 INFO  FileProcessingNew:471 - MARK8
+2017-06-18 20:17:46 INFO  AlignMainNew:74 -  *****txtContentOrigLength:2059
+2017-06-18 20:17:46 INFO  LongAudioAlignerNew:63 - Configuring with: config.xml
+2017-06-18 20:17:46 INFO  LongAudioAlignerNew:66 - PATH: C:\Java\readingbee_audio_aligner\Aligner\config.xml
+2017-06-18 20:17:46 INFO  LongAudioAlignerNew:68 - Using config: config.xml
+2017-06-18 20:17:46 INFO  LongAudioAlignerNew:85 - textLength: 2059
+2017-06-18 20:17:46 INFO  LongAudioAlignerNew:92 - textLengthCS2: 1955
+2017-06-18 20:17:49 INFO  LongAudioAlignerNew:97 - textLengthCS3: 1955
+2017-06-18 20:17:49 INFO  LongAudioAlignerNew:102 - textLengthCS4: 1955
+2017-06-18 20:17:56 INFO  LongAudioAlignerNew:106 - textLengthCS5: 1955
+2017-06-18 20:17:56 INFO  LongAudioAlignerNew:116 - Matched Result Length:1966
+2017-06-18 20:17:57 INFO  FileProcessingNew:303 - ****MARK2...0.08
+2017-06-18 20:17:57 INFO  FileProcessingNew:304 - ****MARK3...2540
+2017-06-18 20:17:57 INFO  FileProcessingNew:305 - ****MARK4...30
+2017-06-18 20:17:57 INFO  FileProcessingNew:306 - ****MARK5...?" [BEGIN11:04]I asked, pointing to a house across the fields.
+
+"Oh, that belongs to the Awkward Man[END11:08][BEGIN11:08].  His name is Jasper Dale, but everybody calls him the Awkward Man[END11:12][BEGIN11:12].  And they do say he writes poetry.  He calls his place Golden Milestone[END11:17][BEGIN11:17].  I know why, because I've read Longfellow's poems[END11:19][BEGIN11:19].  He never goes into society because he is so awkward[END11:22][BEGIN11:22].  The girls laugh at him and he doesn't like it.  I know a story about him and I'll tell it to you sometime[END11:27][BEGIN11:27]."
+
+"And who lives in that other house?" asked Felix, looking over the westering valley where a little gray roof was visible among the trees[END11:34][BEGIN11:34].
+
+"Old Peg Bowen.  She's very queer.  She lives there with a lot of pet animals in winter, and in summer she roams over the country and begs her meals[END11:42][BEGIN11:42].  They say she is crazy.  People have always tried to frighten us children into good behaviour by telling us that Peg Bowen would catch us if we didn't behave[END11:49][BEGIN11:49].  I'm not so frightened of her as I once was, but I don't think I would like to be caught by her[END11:54][BEGIN11:54].  Sara Ray is dreadfully scared of her. Peter Craig says she is a witch and that he bets she's at the bottom of it when the butter won't come[END12:01][BEGIN12:01].  But I don't believe THAT.  Witches are so scarce nowadays[END12:05][BEGIN12:05].  There may be some somewhere in the world, but it's not likely there are any here right in Prince Edward Island[END12:11][BEGIN12:11].  They used to be very plenty long ago.  I know some splendid witch stories I'll tell you some day[END12:16][BEGIN12:16]. They'll just make your blood freeze in your veins[END12:18][BEGIN12:18]."
+
+We hadn't a doubt of it.  If anybody could freeze the blood in our veins this girl with the wonderful voice could[END12:24][BEGIN12:24].  But it was a May morning, and our young blood was running blithely in our veins[END12:28][BEGIN12:28].  We suggested a visit to the orchard would be more agreeable[END12:31][BEGIN12:31].
+
+"All right.  I know stories about it, too," she said, as we walked across the yard, followed by Paddy of the waving tail[END12:37][BEGIN12:37]. "Oh, aren't you glad it is spring?  The beauty of winter is that it makes you appreciate spring[END12:42][BEGIN12:42]."
+
+The latch of the gate clicked under the Story Girl's hand[END12:46][BEGIN12:46], and the next moment we were in the King orchard[END12:48]
+2017-06-18 20:17:57 INFO  FileProcessingNew:397 - ##############FILE APPEND OK#############
+2017-06-18 20:17:57 INFO  FileProcessingNew:410 - MARK1
+2017-06-18 20:17:57 INFO  FileProcessingNew:414 - MARK2
+2017-06-18 20:17:57 INFO  FileProcessingNew:423 - MARK3
+2017-06-18 20:17:57 INFO  FileProcessingNew:433 - MARK5
+2017-06-18 20:17:59 INFO  FileProcessingNew:448 - MARK6
+2017-06-18 20:17:59 INFO  FileProcessingNew:451 - Removing: F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/storygirl_02_montgomery/SEG_WAVTXT3.wav
+2017-06-18 20:17:59 INFO  FileProcessingNew:468 - MARK7
+2017-06-18 20:17:59 INFO  FileProcessingNew:471 - MARK8
+2017-06-18 20:17:59 INFO  AlignMainNew:74 -  *****txtContentOrigLength:3
+2017-06-18 20:17:59 INFO  LongAudioAlignerNew:63 - Configuring with: config.xml
+2017-06-18 20:17:59 INFO  LongAudioAlignerNew:66 - PATH: C:\Java\readingbee_audio_aligner\Aligner\config.xml
+2017-06-18 20:17:59 INFO  LongAudioAlignerNew:68 - Using config: config.xml
+2017-06-18 20:17:59 INFO  LongAudioAlignerNew:85 - textLength: 3
+2017-06-18 20:17:59 INFO  LongAudioAlignerNew:92 - textLengthCS2: 0
+2017-06-18 20:18:02 INFO  LongAudioAlignerNew:97 - textLengthCS3: 0
+2017-06-18 20:18:02 INFO  LongAudioAlignerNew:102 - textLengthCS4: 0
+2017-06-18 20:18:02 INFO  LongAudioAlignerNew:106 - textLengthCS5: 0
+2017-06-18 20:18:02 INFO  LongAudioAlignerNew:116 - Matched Result Length:5
+2017-06-18 20:18:03 INFO  FileProcessingNew:410 - MARK1
+2017-06-18 20:18:03 INFO  FileProcessingNew:423 - MARK3
+2017-06-18 20:18:03 INFO  FileProcessingNew:428 - MARK4
+2017-06-18 20:18:03 INFO  FileProcessingNew:267 - Dir Created F:/_backup_books_processing/Audio_Book_-_Story_Girl/story_girl_librivox/out2/
+2017-06-18 20:18:03 INFO  FileProcessingNew:272 - Processing complete. Exit...
+2017-06-18 20:18:03 INFO  FileProcessingNew:274 - Exit Align

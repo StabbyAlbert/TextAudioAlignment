@@ -1,0 +1,222 @@
+Path to Text File: ./resource/transcription/oov_numbers.txt
+Path To Audio File: ./resource/wav/oov_numbers.wav
+========== GENERATING TIMED RESULT USING CORRECT TEXT =========
+Timed Result: <unk>(0.0,2.34) one(2.37,2.95) two(3.86,4.22) three(5.25,5.6) four(6.67,7.04) five(7.97,8.58)
+
+ Result: <unk> one two three four five
+
+ ResultP: <unk>[] one[HH,W,AH,N] two[T,UW] three[TH,R,IY] four[F,AO,R] five[F,AY,V]
+
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@e3570c
+WordToken five edu.cmu.sphinx.frontend.FloatData@167e3a5
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@1926e90
+WordToken four edu.cmu.sphinx.frontend.FloatData@98ce7e
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@1cb7a1
+WordToken three edu.cmu.sphinx.frontend.FloatData@15bc6c8
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@578073
+WordToken two edu.cmu.sphinx.frontend.FloatData@b20352
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@f8395f
+WordToken one edu.cmu.sphinx.frontend.FloatData@7e9ce2
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@6dbdc9
+WordToken <unk> edu.cmu.sphinx.frontend.FloatData@c6eff5
+ ResultT: <sil>(0.0,2.34) one(2.34,2.37) <sil>(2.37,2.95) two(2.95,3.86) <sil>(3.86,4.22) three(4.22,5.25) <sil>(5.25,5.6) four(5.6,6.67) <sil>(6.67,7.04) five(7.04,7.97) <sil>(7.97,9.45)
+
+ ResultR: null
+
+Path to Text File: ./resource/transcription/NM.txt
+Path To Audio File: ./resource/wav/NM.wav
+========== GENERATING TIMED RESULT USING CORRECT TEXT =========
+Timed Result: <unk>(0.1,3.02) the(3.02,3.12) museum(3.12,3.74) is(4.04,4.2) devoted(4.2,4.69) to(4.69,4.82) the(4.82,4.92) history(4.92,5.47) and(5.47,5.72) culture(5.72,6.33) of(6.53,6.68) native(6.68,7.12) peoples(7.12,7.63) of(7.63,7.73) the(7.73,7.87) western(7.87,8.29) hemisphere(8.29,8.97) since(9.5,9.77) opening(9.77,10.23) in(10.23,10.36) <unk>(10.36,11.07) 2004(11.07,11.5) the(11.56,11.74) museum(11.74,12.21) has(12.21,12.44) put(12.44,12.61) a(12.61,12.67) strong(12.67,13.16) emphasis(13.16,13.73) on(13.86,14.03) contemporary(14.03,14.84) native(14.84,15.14) american(15.14,15.62) life(15.62,16.03) its(16.36,16.74) latest(16.74,17.19) exhibit(17.19,17.65) vantage(17.93,18.39) point(18.39,18.74) is(18.93,19.07) a(19.07,19.16) perfect(19.16,19.68) example(19.68,20.48) brightly(21.21,21.63) colored(21.63,22.02) abstract(22.02,22.71) paintings(22.71,23.4) a(23.58,23.7) bronze(23.7,24.1) sculpture(24.1,24.73) and(25.04,25.21) a(25.21,25.29) digital(25.29,25.72) video(25.72,26.26) are(26.56,26.7) among(26.7,26.93) the(26.93,27.06) 31(27.06,27.69) works(27.69,27.99) of(27.99,28.12) art(28.12,28.39) that(28.39,28.54) make(28.54,28.77) up(28.77,28.93) the(28.93,29.09) new(29.09,29.25) exhibit(29.25,29.75) the(30.58,30.7) works(30.7,30.97) here(30.97,31.23) are(31.26,31.4) probably(31.4,31.98) not(31.98,32.23) what(32.23,32.43) most(32.43,32.76) visitors(32.76,33.22) expect(33.22,33.63) to(33.63,33.76) see(33.76,34.11) at(34.11,34.2) the(34.2,34.29) national(34.29,34.74) museum(34.74,35.23) of(35.23,35.31) the(35.31,35.44) american(35.44,35.93) indian(35.93,36.31) says(36.79,36.88) curator(36.91,37.29) rebecca(37.29,37.63) head(37.63,37.73) trautmann(37.73,38.22) <unk>(38.3,38.55) i(39.12,39.27) think(39.27,40.44) that(40.44,40.73) people(40.73,41.02) are(41.02,41.09) often(41.09,41.43) surprised(41.43,42.27) when(42.27,42.56) they(42.56,42.7) come(42.7,42.95) to(42.95,43.08) this(43.08,43.22) museum(43.22,43.63) and(43.63,43.74) see(43.74,43.91) an(43.91,43.98) exhibition(43.98,44.64) of(44.64,44.84) modern(44.84,45.11) or(45.11,45.17) contemporary(45.17,45.94) native(45.97,46.29) art(46.29,46.59) <unk>(46.59,48.75) she(48.78,48.84) hopes(48.88,49.1) vantage(49.1,49.63) point(49.87,50.21) will(50.21,50.48) surprise(50.48,51.1) and(51.1,51.21) challenge(51.21,51.63) people(51.66,51.99) s(51.99,52.05) notions(52.05,52.64) of(52.67,52.84) what(52.84,53.15) native(53.3,53.54) american(53.54,53.92) art(53.92,54.18) is(54.18,54.62) and(54.65,54.74) what(54.74,54.86) native(54.86,55.05) american(55.05,55.34) artists(55.34,55.68) do(55.71,56.07) <unk>(56.07,56.83) marie(56.88,57.22) watt(57.22,57.78) a(57.88,58.0) seneca(58.0,58.63) is(58.97,59.18) <unk>(59.18,59.97)
+
+ Result: <unk> the museum is devoted to the history and culture of native peoples of the western hemisphere since opening in <unk> 2004 the museum has put a strong emphasis on contemporary native american life its latest exhibit vantage point is a perfect example brightly colored abstract paintings a bronze sculpture and a digital video are among the 31 works of art that make up the new exhibit the works here are probably not what most visitors expect to see at the national museum of the american indian says curator rebecca head trautmann <unk> i think that people are often surprised when they come to this museum and see an exhibition of modern or contemporary native art <unk> she hopes vantage point will surprise and challenge people s notions of what native american art is and what native american artists do <unk> marie watt a seneca is <unk>
+
+ ResultP: 
+
+WordToken <unk> edu.cmu.sphinx.frontend.FloatData@7f53
+WordToken is edu.cmu.sphinx.frontend.FloatData@a761bf
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@10244fc
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@1ff0102
+WordToken seneca edu.cmu.sphinx.frontend.FloatData@9b65cc
+WordToken a edu.cmu.sphinx.frontend.FloatData@386ac2
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@1e8e6aa
+WordToken watt edu.cmu.sphinx.frontend.FloatData@17fe066
+WordToken marie edu.cmu.sphinx.frontend.FloatData@657778
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@1867c00
+WordToken <unk> edu.cmu.sphinx.frontend.FloatData@36f324
+WordToken do edu.cmu.sphinx.frontend.FloatData@194f5ef
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@9e5724
+WordToken artists edu.cmu.sphinx.frontend.FloatData@16b0b29
+WordToken american edu.cmu.sphinx.frontend.FloatData@a9e1af
+WordToken native edu.cmu.sphinx.frontend.FloatData@11fdfe5
+WordToken what edu.cmu.sphinx.frontend.FloatData@1a43603
+WordToken and edu.cmu.sphinx.frontend.FloatData@1d63838
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@104e786
+WordToken is edu.cmu.sphinx.frontend.FloatData@fc2895
+WordToken art edu.cmu.sphinx.frontend.FloatData@cc51c8
+WordToken american edu.cmu.sphinx.frontend.FloatData@d2c22
+WordToken native edu.cmu.sphinx.frontend.FloatData@cca6ad
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@1d2c810
+WordToken what edu.cmu.sphinx.frontend.FloatData@14ccac4
+WordToken of edu.cmu.sphinx.frontend.FloatData@941f0a
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@820344
+WordToken notions edu.cmu.sphinx.frontend.FloatData@1a46bc6
+WordToken s edu.cmu.sphinx.frontend.FloatData@19faa8c
+WordToken people edu.cmu.sphinx.frontend.FloatData@175e9db
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@4c53ab
+WordToken challenge edu.cmu.sphinx.frontend.FloatData@10931f8
+WordToken and edu.cmu.sphinx.frontend.FloatData@af9150
+WordToken surprise edu.cmu.sphinx.frontend.FloatData@6d1c90
+WordToken will edu.cmu.sphinx.frontend.FloatData@16e5d3d
+WordToken point edu.cmu.sphinx.frontend.FloatData@ab746e
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@68f17d
+WordToken vantage edu.cmu.sphinx.frontend.FloatData@1c64ae1
+WordToken hopes edu.cmu.sphinx.frontend.FloatData@15e331b
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@16d542a
+WordToken she edu.cmu.sphinx.frontend.FloatData@b0c151
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@63c7dd
+WordToken <unk> edu.cmu.sphinx.frontend.FloatData@6d7681
+WordToken art edu.cmu.sphinx.frontend.FloatData@7f21d6
+WordToken native edu.cmu.sphinx.frontend.FloatData@867009
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@257dea
+WordToken contemporary edu.cmu.sphinx.frontend.FloatData@16d9d1c
+WordToken or edu.cmu.sphinx.frontend.FloatData@165b197
+WordToken modern edu.cmu.sphinx.frontend.FloatData@16e5419
+WordToken of edu.cmu.sphinx.frontend.FloatData@534153
+WordToken exhibition edu.cmu.sphinx.frontend.FloatData@1e5d74a
+WordToken an edu.cmu.sphinx.frontend.FloatData@9973a4
+WordToken see edu.cmu.sphinx.frontend.FloatData@771a72
+WordToken and edu.cmu.sphinx.frontend.FloatData@1694a33
+WordToken museum edu.cmu.sphinx.frontend.FloatData@1866125
+WordToken this edu.cmu.sphinx.frontend.FloatData@154037e
+WordToken to edu.cmu.sphinx.frontend.FloatData@b15f85
+WordToken come edu.cmu.sphinx.frontend.FloatData@f63e26
+WordToken they edu.cmu.sphinx.frontend.FloatData@6a47d9
+WordToken when edu.cmu.sphinx.frontend.FloatData@19325ee
+WordToken surprised edu.cmu.sphinx.frontend.FloatData@19f6996
+WordToken often edu.cmu.sphinx.frontend.FloatData@cd26df
+WordToken are edu.cmu.sphinx.frontend.FloatData@b30109
+WordToken people edu.cmu.sphinx.frontend.FloatData@92fac
+WordToken that edu.cmu.sphinx.frontend.FloatData@11902c5
+WordToken think edu.cmu.sphinx.frontend.FloatData@104e583
+WordToken i edu.cmu.sphinx.frontend.FloatData@781bc7
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@167d438
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@19daa47
+WordToken <unk> edu.cmu.sphinx.frontend.FloatData@162667
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@3345ac
+WordToken trautmann edu.cmu.sphinx.frontend.FloatData@234e7e
+WordToken head edu.cmu.sphinx.frontend.FloatData@1f647ce
+WordToken rebecca edu.cmu.sphinx.frontend.FloatData@1e460dc
+WordToken curator edu.cmu.sphinx.frontend.FloatData@93230d
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@1e2622b
+WordToken says edu.cmu.sphinx.frontend.FloatData@19b0d9c
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@9a9949
+WordToken indian edu.cmu.sphinx.frontend.FloatData@1c59a65
+WordToken american edu.cmu.sphinx.frontend.FloatData@1b6e35
+WordToken the edu.cmu.sphinx.frontend.FloatData@e0744c
+WordToken of edu.cmu.sphinx.frontend.FloatData@1f36586
+WordToken museum edu.cmu.sphinx.frontend.FloatData@8e5f29
+WordToken national edu.cmu.sphinx.frontend.FloatData@109b25f
+WordToken the edu.cmu.sphinx.frontend.FloatData@19da9aa
+WordToken at edu.cmu.sphinx.frontend.FloatData@1ee05dc
+WordToken see edu.cmu.sphinx.frontend.FloatData@1c2ef1b
+WordToken to edu.cmu.sphinx.frontend.FloatData@dfe0c6
+WordToken expect edu.cmu.sphinx.frontend.FloatData@1e003b
+WordToken visitors edu.cmu.sphinx.frontend.FloatData@1a13f4c
+WordToken most edu.cmu.sphinx.frontend.FloatData@1429a7d
+WordToken what edu.cmu.sphinx.frontend.FloatData@1acbb8e
+WordToken not edu.cmu.sphinx.frontend.FloatData@14d99bb
+WordToken probably edu.cmu.sphinx.frontend.FloatData@1a7cde3
+WordToken are edu.cmu.sphinx.frontend.FloatData@1be18e2
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@153d9d2
+WordToken here edu.cmu.sphinx.frontend.FloatData@173e7
+WordToken works edu.cmu.sphinx.frontend.FloatData@1607702
+WordToken the edu.cmu.sphinx.frontend.FloatData@255a5a
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@4ee98f
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@c7c82a
+WordToken exhibit edu.cmu.sphinx.frontend.FloatData@2660ad
+WordToken new edu.cmu.sphinx.frontend.FloatData@1950a3d
+WordToken the edu.cmu.sphinx.frontend.FloatData@1d36c3b
+WordToken up edu.cmu.sphinx.frontend.FloatData@1669ea1
+WordToken make edu.cmu.sphinx.frontend.FloatData@3884c0
+WordToken that edu.cmu.sphinx.frontend.FloatData@938786
+WordToken art edu.cmu.sphinx.frontend.FloatData@1a68961
+WordToken of edu.cmu.sphinx.frontend.FloatData@8560f3
+WordToken works edu.cmu.sphinx.frontend.FloatData@a00025
+WordToken 31 edu.cmu.sphinx.frontend.FloatData@69bb01
+WordToken the edu.cmu.sphinx.frontend.FloatData@17467e5
+WordToken among edu.cmu.sphinx.frontend.FloatData@151131d
+WordToken are edu.cmu.sphinx.frontend.FloatData@1bddfd9
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@b3600d
+WordToken video edu.cmu.sphinx.frontend.FloatData@67149d
+WordToken digital edu.cmu.sphinx.frontend.FloatData@17a6216
+WordToken a edu.cmu.sphinx.frontend.FloatData@1bdc97a
+WordToken and edu.cmu.sphinx.frontend.FloatData@f68112
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@193f052
+WordToken sculpture edu.cmu.sphinx.frontend.FloatData@1869953
+WordToken bronze edu.cmu.sphinx.frontend.FloatData@1bc4c37
+WordToken a edu.cmu.sphinx.frontend.FloatData@12fe415
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@1275de2
+WordToken paintings edu.cmu.sphinx.frontend.FloatData@184a312
+WordToken abstract edu.cmu.sphinx.frontend.FloatData@ee21ae
+WordToken colored edu.cmu.sphinx.frontend.FloatData@1e55839
+WordToken brightly edu.cmu.sphinx.frontend.FloatData@31fc6
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@11b2519
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@120afc0
+WordToken example edu.cmu.sphinx.frontend.FloatData@f2a460
+WordToken perfect edu.cmu.sphinx.frontend.FloatData@5c424
+WordToken a edu.cmu.sphinx.frontend.FloatData@904ddd
+WordToken is edu.cmu.sphinx.frontend.FloatData@1e7f8de
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@83e909
+WordToken point edu.cmu.sphinx.frontend.FloatData@387103
+WordToken vantage edu.cmu.sphinx.frontend.FloatData@18394b0
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@196d484
+WordToken exhibit edu.cmu.sphinx.frontend.FloatData@15a561c
+WordToken latest edu.cmu.sphinx.frontend.FloatData@1cb7618
+WordToken its edu.cmu.sphinx.frontend.FloatData@b63f4c
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@f5c621
+WordToken life edu.cmu.sphinx.frontend.FloatData@1a2c1d8
+WordToken american edu.cmu.sphinx.frontend.FloatData@6470a6
+WordToken native edu.cmu.sphinx.frontend.FloatData@1fa9ab
+WordToken contemporary edu.cmu.sphinx.frontend.FloatData@bc4ce7
+WordToken on edu.cmu.sphinx.frontend.FloatData@5d003b
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@1ba21ac
+WordToken emphasis edu.cmu.sphinx.frontend.FloatData@f8d139
+WordToken strong edu.cmu.sphinx.frontend.FloatData@1701ba3
+WordToken a edu.cmu.sphinx.frontend.FloatData@1267553
+WordToken put edu.cmu.sphinx.frontend.FloatData@1e0d734
+WordToken has edu.cmu.sphinx.frontend.FloatData@50c91f
+WordToken museum edu.cmu.sphinx.frontend.FloatData@1c44bd4
+WordToken the edu.cmu.sphinx.frontend.FloatData@4e701b
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@1a21149
+WordToken 2004 edu.cmu.sphinx.frontend.FloatData@11ceb21
+WordToken <unk> edu.cmu.sphinx.frontend.FloatData@190d589
+WordToken in edu.cmu.sphinx.frontend.FloatData@1b335f9
+WordToken opening edu.cmu.sphinx.frontend.FloatData@9c8e14
+WordToken since edu.cmu.sphinx.frontend.FloatData@33e42f
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@c9fe14
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@1480096
+WordToken hemisphere edu.cmu.sphinx.frontend.FloatData@1e932e
+WordToken western edu.cmu.sphinx.frontend.FloatData@150b632
+WordToken the edu.cmu.sphinx.frontend.FloatData@1e9bc7a
+WordToken of edu.cmu.sphinx.frontend.FloatData@551dc1
+WordToken peoples edu.cmu.sphinx.frontend.FloatData@14786f
+WordToken native edu.cmu.sphinx.frontend.FloatData@1eecbc2
+WordToken of edu.cmu.sphinx.frontend.FloatData@8362dc
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@1cf9232
+WordToken culture edu.cmu.sphinx.frontend.FloatData@874c04
+WordToken and edu.cmu.sphinx.frontend.FloatData@8fbbb4
+WordToken history edu.cmu.sphinx.frontend.FloatData@6c612e
+WordToken the edu.cmu.sphinx.frontend.FloatData@16030f9
+WordToken to edu.cmu.sphinx.frontend.FloatData@2f3c8d
+WordToken devoted edu.cmu.sphinx.frontend.FloatData@13066b8
+WordToken is edu.cmu.sphinx.frontend.FloatData@a7d863
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@16f803c
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@14bee22
+WordToken museum edu.cmu.sphinx.frontend.FloatData@1ff20cc
+WordToken the edu.cmu.sphinx.frontend.FloatData@c26564
+WordToken <unk> edu.cmu.sphinx.frontend.FloatData@8eb1a8
+WordToken <sil> edu.cmu.sphinx.frontend.FloatData@319202
+ ResultT: <unk>(0.0,0.1) the(0.1,3.02) museum(3.02,3.12) <sil>(3.12,3.74) <sil>(3.74,3.86) is(3.86,4.04) devoted(4.04,4.2) to(4.2,4.69) the(4.69,4.82) history(4.82,4.92) and(4.92,5.47) culture(5.47,5.72) <sil>(5.72,6.33) of(6.33,6.53) native(6.53,6.68) peoples(6.68,7.12) of(7.12,7.63) the(7.63,7.73) western(7.73,7.87) hemisphere(7.87,8.29) <sil>(8.29,8.97) <sil>(8.97,9.41) since(9.41,9.5) opening(9.5,9.77) in(9.77,10.23) <unk>(10.23,10.36) 2004(10.36,11.07) <sil>(11.07,11.5) the(11.5,11.56) museum(11.56,11.74) has(11.74,12.21) put(12.21,12.44) a(12.44,12.61) strong(12.61,12.67) emphasis(12.67,13.16) <sil>(13.16,13.73) on(13.73,13.86) contemporary(13.86,14.03) native(14.03,14.84) american(14.84,15.14) life(15.14,15.62) <sil>(15.62,16.03) its(16.03,16.36) latest(16.36,16.74) exhibit(16.74,17.19) <sil>(17.19,17.65) vantage(17.65,17.93) point(17.93,18.39) <sil>(18.39,18.74) is(18.74,18.93) a(18.93,19.07) perfect(19.07,19.16) example(19.16,19.68) <sil>(19.68,20.48) <sil>(20.48,20.89) brightly(20.89,21.21) colored(21.21,21.63) abstract(21.63,22.02) paintings(22.02,22.71) <sil>(22.71,23.4) a(23.4,23.58) bronze(23.58,23.7) sculpture(23.7,24.1) <sil>(24.1,24.73) and(24.73,25.04) a(25.04,25.21) digital(25.21,25.29) video(25.29,25.72) <sil>(25.72,26.26) are(26.26,26.56) among(26.56,26.7) the(26.7,26.93) 31(26.93,27.06) works(27.06,27.69) of(27.69,27.99) art(27.99,28.12) that(28.12,28.39) make(28.39,28.54) up(28.54,28.77) the(28.77,28.93) new(28.93,29.09) exhibit(29.09,29.25) <sil>(29.25,29.75) <sil>(29.75,30.14) the(30.14,30.58) works(30.58,30.7) here(30.7,30.97) <sil>(30.97,31.23) are(31.23,31.26) probably(31.26,31.4) not(31.4,31.98) what(31.98,32.23) most(32.23,32.43) visitors(32.43,32.76) expect(32.76,33.22) to(33.22,33.63) see(33.63,33.76) at(33.76,34.11) the(34.11,34.2) national(34.2,34.29) museum(34.29,34.74) of(34.74,35.23) the(35.23,35.31) american(35.31,35.44) indian(35.44,35.93) <sil>(35.93,36.31) says(36.31,36.79) <sil>(36.79,36.88) curator(36.88,36.91) rebecca(36.91,37.29) head(37.29,37.63) trautmann(37.63,37.73) <sil>(37.73,38.22) <unk>(38.22,38.3) <sil>(38.3,38.55) <sil>(38.55,38.68) i(38.68,39.12) think(39.12,39.27) that(39.27,40.44) people(40.44,40.73) are(40.73,41.02) often(41.02,41.09) surprised(41.09,41.43) when(41.43,42.27) they(42.27,42.56) come(42.56,42.7) to(42.7,42.95) this(42.95,43.08) museum(43.08,43.22) and(43.22,43.63) see(43.63,43.74) an(43.74,43.91) exhibition(43.91,43.98) of(43.98,44.64) modern(44.64,44.84) or(44.84,45.11) contemporary(45.11,45.17) <sil>(45.17,45.94) native(45.94,45.97) art(45.97,46.29) <unk>(46.29,46.59) <sil>(46.59,48.75) she(48.75,48.78) <sil>(48.78,48.84) hopes(48.84,48.88) vantage(48.88,49.1) <sil>(49.1,49.63) point(49.63,49.87) will(49.87,50.21) surprise(50.21,50.48) and(50.48,51.1) challenge(51.1,51.21) <sil>(51.21,51.63) people(51.63,51.66) s(51.66,51.99) notions(51.99,52.05) <sil>(52.05,52.64) of(52.64,52.67) what(52.67,52.84) <sil>(52.84,53.15) native(53.15,53.3) american(53.3,53.54) art(53.54,53.92) is(53.92,54.18) <sil>(54.18,54.62) and(54.62,54.65) what(54.65,54.74) native(54.74,54.86) american(54.86,55.05) artists(55.05,55.34) <sil>(55.34,55.68) do(55.68,55.71) <unk>(55.71,56.07) <sil>(56.07,56.83) marie(56.83,56.88) watt(56.88,57.22) <sil>(57.22,57.78) a(57.78,57.88) seneca(57.88,58.0) <sil>(58.0,58.63) <sil>(58.63,58.69) is(58.69,58.97) <unk>(58.97,59.97)
+
+ ResultR: null
+

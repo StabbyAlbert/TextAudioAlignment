@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Aligner</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>keywodspotting</name>
+			<type>2</type>
+			<location>C:/java/long_audio_aligner/KeyWordSpotting/src</location>
+		</link>
+		<link>
+			<name>sphinx4</name>
+			<type>2</type>
+			<location>C:/java/sphinx4_1b6/sphinx4-1.0beta6-src/sphinx4-1.0beta6/src/sphinx4</location>
+		</link>
+	</linkedResources>
+</projectDescription>

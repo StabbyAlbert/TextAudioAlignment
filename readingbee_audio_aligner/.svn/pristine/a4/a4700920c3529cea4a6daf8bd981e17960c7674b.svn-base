@@ -1,0 +1,412 @@
+7-args5debug.....: 15
+args6debug.....: 0
+INPUT OK
+ args length: 7
+ New speechSpeedCharPerSec: 15.0
+NOTuseOldFindReplace.....: 0
+!!!!!!!!!!!!222222!!!!!!!!!!!!!!!!
+Dir Created C:/TEMP/advanced1/Exhibit Explores Modern Native American Art/
+Ok: C:/TEMP/advanced1/Exhibit Explores Modern Native American Art/Exhibit Explores Modern Native American Art_NT_v8.txt
+Ok2: C:/TEMP/advanced1/Exhibit Explores Modern Native American Art/Exhibit Explores Modern Native American Art_NT_v8.txt
+ OUTPUTFILE_NAME:C:/TEMP/advanced1/Exhibit Explores Modern Native American Art/SEG_WAVTXT.txt
+NO PHASE SHIFT
+TotalBit:960001start: 45 end: 960045
+Audio File SEGMENT CREATED... 
+ *****txtContentOrigLength:4583
+textLength: 4583
+textLengthCS: the museum is devoted to the history and culture of native peoples of the western hemisphere since opening in 2004 the museum has put a strong emphasis on contemporary native american life its latest exhibit vantage point is a perfect example brightly colored abstract paintings a bronze sculpture and a digital video are among the 31 works of art that make up the new exhibit the works here are probably not what most visitors expect to see at the national museum of the american indian says curator rebecca head trautmann i think that people are often surprised when they come to this museum and see an exhibition of modern or contemporary native art she hopes vantage point will surprise and challenge people s notions of what native american art is and what native american artists do marie watt a seneca is one of those native artists challenging the notion of what american indian art is she sews together recycled fabric something like piecing a quilt watt creates most of her pieces in a sewing circle and says many hands make light work she spent a sunday at the museum enlisting the help of visitors to create a new work more than half a dozen women sat around a large table on which several pairs of blue jeans had been pinned together in a circle participants were told they could come and go as they pleased and that no sewing experience was necessary watt says any age can participate from as young as two to as old as 100 i never take out anybody s stitches in the sewing circle she says but if there are any weak links i ll reinforce them everybody s stitches are important they are she says unique like a thumbprint or signature you can see the variety of stitches used to assemble an earlier work in the vantage point exhibit in the garden corn beans and squash represents three traditional foods of the seneca people the material it is made from recycled wool blankets also has meaning i started collecting these blankets wanting to use this kind of ordinary everyday object watt says but i was also interested in how blankets are these objects in the native community and in the seneca community that we give away to honor people for being witness to important life events all of the works in the exhibit explore identity history culture or landscape from a native american perspective that point of view is evident in some works but not all james lavadour s blanket is composed of 15 small panels painted in bold colors trautmann says it is a landscape of the umatilla indian reservation but it s a personal impression of the land where the walla walla artist grew up the work doesn t represent the physical appearance of the landscape but rather the forces the geological and meteorological forces that have shaped the landscape james luna a puyoukichum luiseno from southern california almost always creates works with a distinctly indian viewpoint but he says i do believe it doesn t have to look indian to be indian it s the very fact that i am an indian making art that it becomes indian art his piece chapel for pablo tac was created for the 2005 biennale and is the largest work in the exhibition the work is an installation resembling a spanish mission in california complete with bench seats and an altar it explores the impact of christianity on native americans juxtaposing objects used during traditional native worship alongside those used during a catholic mass for example a bundle of dried sage next to an incense burner and a rattle made from a gourd beside bells luna says he chose pablo tac as the subject of this work because tac challenges the public s preconception of native americans if you look at the cultures of native california we were primarily hunters and gatherers so people walk away with that concept of us being less than the artist says the inclusion of pablo tac elevates us to a whole other level it elevates us from spear chuckers to linguist known primarily as a performance artist luna seeks to educate the public through his art given the opportunity the most i can wish for would be that people reconsider the native experience as they see it that once seeing a work of mine or a performance they will reconsider what they know although other artists in the vantage point exhibit may not share luna s mission their works are a reminder that american indian cultures are not frozen in the 19th century but continue to evolve today 
+   Mem  Total: 254.06 Mb  Free: 116.06 Mb
+   Used: This: 138.00 Mb  Avg: 138.00 Mb  Max: 138.00 Mb
+
+# --------------- Summary statistics ---------
+   Total Time Audio: 30.00s  Proc: 3.77s  Speed: 0.13 X real time
+   Mem  Total: 254.06 Mb  Free: 116.06 Mb
+   Used: This: 138.00 Mb  Avg: 138.00 Mb  Max: 138.00 Mb
+WORD: the(3.02,3.12)
+WORD: museum(3.12,3.74)
+WORD: is(4.04,4.2)
+WORD: devoted(4.2,4.69)
+WORD: to(4.69,4.82)
+WORD: the(4.82,4.92)
+WORD: history(4.92,5.47)
+WORD: and(5.47,5.72)
+WORD: culture(5.72,6.33)
+WORD: of(6.53,6.68)
+WORD: native(6.68,7.12)
+WORD: peoples(7.12,7.63)
+WORD: of(7.63,7.73)
+WORD: the(7.73,7.87)
+WORD: western(7.87,8.29)
+WORD: hemisphere(8.29,8.97)
+WORD: since(9.5,9.77)
+WORD: opening(9.77,10.23)
+WORD: in(10.23,10.36)
+WORD: 2004(11.07,11.5)
+WORD: the(11.56,11.74)
+WORD: museum(11.74,12.21)
+WORD: has(12.21,12.44)
+WORD: put(12.44,12.61)
+WORD: a(12.61,12.67)
+WORD: strong(12.67,13.16)
+WORD: emphasis(13.16,13.73)
+WORD: on(13.86,14.03)
+WORD: contemporary(14.03,14.84)
+WORD: native(14.84,15.14)
+WORD: american(15.14,15.62)
+WORD: life(15.62,16.03)
+WORD: its(16.36,16.74)
+WORD: latest(16.74,17.19)
+WORD: exhibit(17.19,17.65)
+WORD: vantage(17.93,18.39)
+WORD: point(18.39,18.74)
+WORD: is(18.93,19.07)
+WORD: a(19.07,19.16)
+WORD: perfect(19.16,19.68)
+WORD: example(19.68,20.48)
+WORD: brightly(21.21,21.63)
+WORD: colored(21.63,22.02)
+WORD: abstract(22.02,22.71)
+WORD: paintings(22.71,23.4)
+WORD: a(23.58,23.7)
+WORD: bronze(23.7,24.1)
+WORD: sculpture(24.1,24.73)
+WORD: and(25.04,25.21)
+WORD: a(25.21,25.29)
+WORD: digital(25.29,25.72)
+WORD: video(25.72,26.26)
+WORD: are(26.56,26.7)
+WORD: among(26.7,26.93)
+WORD: the(26.93,27.06)
+WORD: 31(27.06,27.69)
+WORD: works(27.69,27.99)
+WORD: of(27.99,28.12)
+WORD: art(28.12,28.39)
+WORD: that(28.39,28.54)
+WORD: make(28.54,28.77)
+WORD: up(28.77,28.93)
+WORD: the(28.93,29.09)
+WORD: new(29.09,29.25)
+WORD: exhibit(29.25,29.75)
+NOT... useOldFindReplace
+Timed Result: the(3.02,3.12) museum(3.12,3.74) is(4.04,4.2) devoted(4.2,4.69) to(4.69,4.82) the(4.82,4.92) history(4.92,5.47) and(5.47,5.72) culture(5.72,6.33) of(6.53,6.68) native(6.68,7.12) peoples(7.12,7.63) of(7.63,7.73) the(7.73,7.87) western(7.87,8.29) hemisphere(8.29,8.97) since(9.5,9.77) opening(9.77,10.23) in(10.23,10.36) 2004(11.07,11.5) the(11.56,11.74) museum(11.74,12.21) has(12.21,12.44) put(12.44,12.61) a(12.61,12.67) strong(12.67,13.16) emphasis(13.16,13.73) on(13.86,14.03) contemporary(14.03,14.84) native(14.84,15.14) american(15.14,15.62) life(15.62,16.03) its(16.36,16.74) latest(16.74,17.19) exhibit(17.19,17.65) vantage(17.93,18.39) point(18.39,18.74) is(18.93,19.07) a(19.07,19.16) perfect(19.16,19.68) example(19.68,20.48) brightly(21.21,21.63) colored(21.63,22.02) abstract(22.02,22.71) paintings(22.71,23.4) a(23.58,23.7) bronze(23.7,24.1) sculpture(24.1,24.73) and(25.04,25.21) a(25.21,25.29) digital(25.29,25.72) video(25.72,26.26) are(26.56,26.7) among(26.7,26.93) the(26.93,27.06) 31(27.06,27.69) works(27.69,27.99) of(27.99,28.12) art(28.12,28.39) that(28.39,28.54) make(28.54,28.77) up(28.77,28.93) the(28.93,29.09) new(29.09,29.25) exhibit(29.25,29.75)
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&NEW MATCH TO ORIGTXT&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+originalText2_in:4583 startendout0:0 startendout1:388
+The museum is devoted to the history and culture of native peoples of the Western Hemisphere
+93 wP: 16
+The museum is devoted to the history and culture of native peoples of the Western Hemisphere. Since opening in 2004, the museum has put a strong emphasis on contemporary Native American life
+191 wP: 32
+The museum is devoted to the history and culture of native peoples of the Western Hemisphere. Since opening in 2004, the museum has put a strong emphasis on contemporary Native American life. Its latest exhibit, "Vantage Point" is a perfect example
+249 wP: 41
+-1 wP: 0
+********BW:**EW:***USED longest: the museum is devoted to the history and culture of native peoples of the western hemisphere since opening in 2004 the museum has put a strong emphasis on contemporary native american life its latest exhibit vantage point is a perfect example brightly colored abstract paintings a bronze sculpture and a digital video are among the 31 works of art that make up the new exhibit replacementText: [BEGIN00:03]The museum is devoted to the history and culture of native peoples of the Western Hemisphere[END00:08][BEGIN00:08]. Since opening in 2004, the museum has put a strong emphasis on contemporary Native American life[END00:16][BEGIN00:16]. Its latest exhibit, "Vantage Point" is a perfect example[END00:20][BEGIN00:20]. 
+
+Brightly colored abstract paintings, a bronze sculpture and a digital video are among the 31 works of art that make up the new exhibit[END00:29]***DONE
+*************CHAR SKIPED2: 0 Time Skiped: 3.02
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%newSTARTPOSITION:476
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%newfileContentBuff:[BEGIN00:03]The museum is devoted to the history and culture of native peoples of the Western Hemisphere[END00:08][BEGIN00:08]. Since opening in 2004, the museum has put a strong emphasis on contemporary Native American life[END00:16][BEGIN00:16]. Its latest exhibit, "Vantage Point" is a perfect example[END00:20][BEGIN00:20]. 
+
+Brightly colored abstract paintings, a bronze sculpture and a digital video are among the 31 works of art that make up the new exhibit[END00:29]. The works here are probably not what most visitors expect to see at the National Museum of the American Indian, says curator Rebecca Head Trautmann. "I think that people are often surprised when they come to this museum and see an exhibition of modern or contemporary Native art."
+
+
+She hopes "Vantage Point" will surprise and challenge people's notions of what Native American art is and what Native American artists do.
+
+Marie Watt, a Seneca, is one of those Native artists challenging the notion of what American Indian art is. She sews together recycled fabric, something like piecing a quilt. 
+
+Watt creates most of her pieces in a sewing circle and says, "many hands make light work." She spent a Sunday at the museum enlisting the help of visitors to create a new work. 
+
+More than half a dozen women sat around a large table on which several pairs of blue jeans had been pinned together in a circle. Participants were told they could come and go as they pleased and that no sewing experience was necessary. 
+
+Watt says any age can participate, from as young as two to as old as 100. "I never take out anybody's stitches in the sewing circle," she says, "but if there are any weak links I'll reinforce them. Everybody's stitches are important." They are, she says, "unique like a thumbprint or signature."
+
+You can see the variety of stitches used to assemble an earlier work in the Vantage Point exhibit. In the Garden: Corn, Beans and Squash represents three traditional foods of the Seneca people. The material it is made from -- recycled wool blankets -- also has meaning.
+
+"I started collecting these blankets, wanting to use this kind of ordinary everyday object," Watt says. "But I was also interested in how blankets are these objects in the native community and in the Seneca community that we give away to honor people for being witness to important life events."
+
+
+All of the works in the exhibit explore identity, history, culture or landscape from a Native American perspective. That point of view is evident in some works, but not all. 
+
+James Lavadour's Blanket is composed of 15 small panels painted in bold colors. Trautmann says it is a landscape of the Umatilla Indian Reservation.  But it's a personal impression of the land where the Walla Walla artist grew up.  The work doesn't represent the physical appearance of the landscape, "but rather the forces, the geological and meteorological forces that have shaped the landscape." 
+
+James Luna, a Puyoukichum (Luiseno), from Southern California, almost always creates works with a distinctly Indian viewpoint.  But he says, "I do believe it doesn't have to look Indian to be Indian. It's the very fact that I am an Indian making art that it becomes Indian art."
+
+His piece, "Chapel for Pablo Tac," was created for the 2005 Biennale and is the largest work in the exhibition. The work is an installation resembling a Spanish mission in California, complete with bench seats and an altar. It explores the impact of Christianity on Native Americans, juxtaposing objects used during traditional native worship alongside those used during a Catholic mass. For example, a bundle of dried sage next to an incense burner, and a rattle made from a gourd beside bells. 
+
+Luna says he chose Pablo Tac as the subject of this work, because Tac challenges the public's preconception of Native Americans. "If you look at the cultures of native California, we were primarily hunters and gatherers, so people walk away with that concept of us being less than," the artist says. "The inclusion of Pablo Tac elevates us to a whole other level. It elevates us from spear-chuckers to linguist."
+
+Known primarily as a performance artist, Luna seeks to educate the public through his art.
+"Given the opportunity the most I can wish for would be that people reconsider the native experience as they see it, that once seeing a work of mine or [a] performance, they will reconsider what they know."
+
+Although other artists in the Vantage Point exhibit may not share Luna's mission, their works are a reminder that American Indian cultures are not frozen in the 19th century, but continue to evolve today. 
+
+
+
+****TEST2...3.02
+****TEST3...476
+****TEST4...30
+****TEST5...[BEGIN00:03]The museum is devoted to the history and culture of native peoples of the Western Hemisphere[END00:08][BEGIN00:08]. Since opening in 2004, the museum has put a strong emphasis on contemporary Native American life[END00:16][BEGIN00:16]. Its latest exhibit, "Vantage Point" is a perfect example[END00:20][BEGIN00:20]. 
+
+Brightly colored abstract paintings, a bronze sculpture and a digital video are among the 31 works of art that make up the new exhibit[END00:29]
+##############FILE APPEND OK#############
+TEST1
+TEST2
+TEST3
+TEST5
+NO PHASE SHIFT
+TotalBit:960001start: 928045 end: 1888045
+Audio File SEGMENT CREATED... 
+TEST7
+TEST8
+ *****txtContentOrigLength:4195
+textLength: 4195
+textLengthCS: the works here are probably not what most visitors expect to see at the national museum of the american indian says curator rebecca head trautmann i think that people are often surprised when they come to this museum and see an exhibition of modern or contemporary native art she hopes vantage point will surprise and challenge people s notions of what native american art is and what native american artists do marie watt a seneca is one of those native artists challenging the notion of what american indian art is she sews together recycled fabric something like piecing a quilt watt creates most of her pieces in a sewing circle and says many hands make light work she spent a sunday at the museum enlisting the help of visitors to create a new work more than half a dozen women sat around a large table on which several pairs of blue jeans had been pinned together in a circle participants were told they could come and go as they pleased and that no sewing experience was necessary watt says any age can participate from as young as two to as old as 100 i never take out anybody s stitches in the sewing circle she says but if there are any weak links i ll reinforce them everybody s stitches are important they are she says unique like a thumbprint or signature you can see the variety of stitches used to assemble an earlier work in the vantage point exhibit in the garden corn beans and squash represents three traditional foods of the seneca people the material it is made from recycled wool blankets also has meaning i started collecting these blankets wanting to use this kind of ordinary everyday object watt says but i was also interested in how blankets are these objects in the native community and in the seneca community that we give away to honor people for being witness to important life events all of the works in the exhibit explore identity history culture or landscape from a native american perspective that point of view is evident in some works but not all james lavadour s blanket is composed of 15 small panels painted in bold colors trautmann says it is a landscape of the umatilla indian reservation but it s a personal impression of the land where the walla walla artist grew up the work doesn t represent the physical appearance of the landscape but rather the forces the geological and meteorological forces that have shaped the landscape james luna a puyoukichum luiseno from southern california almost always creates works with a distinctly indian viewpoint but he says i do believe it doesn t have to look indian to be indian it s the very fact that i am an indian making art that it becomes indian art his piece chapel for pablo tac was created for the 2005 biennale and is the largest work in the exhibition the work is an installation resembling a spanish mission in california complete with bench seats and an altar it explores the impact of christianity on native americans juxtaposing objects used during traditional native worship alongside those used during a catholic mass for example a bundle of dried sage next to an incense burner and a rattle made from a gourd beside bells luna says he chose pablo tac as the subject of this work because tac challenges the public s preconception of native americans if you look at the cultures of native california we were primarily hunters and gatherers so people walk away with that concept of us being less than the artist says the inclusion of pablo tac elevates us to a whole other level it elevates us from spear chuckers to linguist known primarily as a performance artist luna seeks to educate the public through his art given the opportunity the most i can wish for would be that people reconsider the native experience as they see it that once seeing a work of mine or a performance they will reconsider what they know although other artists in the vantage point exhibit may not share luna s mission their works are a reminder that american indian cultures are not frozen in the 19th century but continue to evolve today 
+   Mem  Total: 254.12 Mb  Free: 107.22 Mb
+   Used: This: 146.91 Mb  Avg: 146.91 Mb  Max: 146.91 Mb
+
+# --------------- Summary statistics ---------
+   Total Time Audio: 30.00s  Proc: 4.89s  Speed: 0.16 X real time
+   Mem  Total: 254.12 Mb  Free: 107.22 Mb
+   Used: This: 146.91 Mb  Avg: 146.91 Mb  Max: 146.91 Mb
+WORD: the(1.58,1.7)
+WORD: works(1.7,1.97)
+WORD: here(1.97,2.23)
+WORD: are(2.26,2.4)
+WORD: probably(2.4,2.98)
+WORD: not(2.98,3.23)
+WORD: what(3.23,3.43)
+WORD: most(3.43,3.76)
+WORD: visitors(3.76,4.22)
+WORD: expect(4.22,4.63)
+WORD: to(4.63,4.76)
+WORD: see(4.76,5.11)
+WORD: at(5.11,5.2)
+WORD: the(5.2,5.29)
+WORD: national(5.29,5.74)
+WORD: museum(5.74,6.23)
+WORD: of(6.23,6.31)
+WORD: the(6.31,6.44)
+WORD: american(6.44,6.93)
+WORD: indian(6.93,7.31)
+WORD: says(7.79,7.88)
+WORD: curator(7.91,8.29)
+WORD: rebecca(8.29,8.63)
+WORD: head(8.63,8.73)
+WORD: trautmann(8.73,9.22)
+WORD: i(10.12,10.27)
+WORD: think(10.27,11.44)
+WORD: that(11.44,11.73)
+WORD: people(11.73,12.02)
+WORD: are(12.02,12.09)
+WORD: often(12.09,12.42)
+WORD: surprised(12.42,13.27)
+WORD: when(13.27,13.56)
+WORD: they(13.56,13.7)
+WORD: come(13.7,13.95)
+WORD: to(13.95,14.08)
+WORD: this(14.08,14.22)
+WORD: museum(14.22,14.63)
+WORD: and(14.63,14.74)
+WORD: see(14.74,14.91)
+WORD: an(14.91,14.98)
+WORD: exhibition(14.98,15.64)
+WORD: of(15.64,15.84)
+WORD: modern(15.84,16.11)
+WORD: or(16.11,16.17)
+WORD: contemporary(16.17,16.94)
+WORD: native(16.97,17.29)
+WORD: art(17.29,17.59)
+WORD: she(20.08,20.16)
+WORD: hopes(20.19,20.37)
+WORD: vantage(20.37,20.7)
+WORD: point(20.87,21.21)
+WORD: will(21.21,21.49)
+WORD: surprise(21.49,22.1)
+WORD: and(22.1,22.21)
+WORD: challenge(22.21,22.63)
+WORD: people(22.66,22.98)
+WORD: s(22.98,23.07)
+WORD: notions(23.07,23.64)
+WORD: of(23.67,23.84)
+WORD: what(23.84,24.15)
+WORD: native(24.3,24.54)
+WORD: american(24.54,24.92)
+WORD: art(24.92,25.18)
+WORD: is(25.18,25.62)
+WORD: and(25.65,25.74)
+WORD: what(25.74,25.86)
+WORD: native(25.86,26.05)
+WORD: american(26.05,26.34)
+WORD: artists(26.34,26.68)
+WORD: do(26.71,27.07)
+WORD: marie(27.88,28.22)
+WORD: watt(28.22,28.78)
+WORD: a(28.88,29.0)
+WORD: seneca(29.0,29.63)
+NOT... useOldFindReplace
+Timed Result: the(1.58,1.7) works(1.7,1.97) here(1.97,2.23) are(2.26,2.4) probably(2.4,2.98) not(2.98,3.23) what(3.23,3.43) most(3.43,3.76) visitors(3.76,4.22) expect(4.22,4.63) to(4.63,4.76) see(4.76,5.11) at(5.11,5.2) the(5.2,5.29) national(5.29,5.74) museum(5.74,6.23) of(6.23,6.31) the(6.31,6.44) american(6.44,6.93) indian(6.93,7.31) says(7.79,7.88) curator(7.91,8.29) rebecca(8.29,8.63) head(8.63,8.73) trautmann(8.73,9.22) i(10.12,10.27) think(10.27,11.44) that(11.44,11.73) people(11.73,12.02) are(12.02,12.09) often(12.09,12.42) surprised(12.42,13.27) when(13.27,13.56) they(13.56,13.7) come(13.7,13.95) to(13.95,14.08) this(14.08,14.22) museum(14.22,14.63) and(14.63,14.74) see(14.74,14.91) an(14.91,14.98) exhibition(14.98,15.64) of(15.64,15.84) modern(15.84,16.11) or(16.11,16.17) contemporary(16.17,16.94) native(16.97,17.29) art(17.29,17.59) she(20.08,20.16) hopes(20.19,20.37) vantage(20.37,20.7) point(20.87,21.21) will(21.21,21.49) surprise(21.49,22.1) and(22.1,22.21) challenge(22.21,22.63) people(22.66,22.98) s(22.98,23.07) notions(23.07,23.64) of(23.67,23.84) what(23.84,24.15) native(24.3,24.54) american(24.54,24.92) art(24.92,25.18) is(25.18,25.62) and(25.65,25.74) what(25.74,25.86) native(25.86,26.05) american(26.05,26.34) artists(26.34,26.68) do(26.71,27.07) marie(27.88,28.22) watt(28.22,28.78) a(28.88,29.0) seneca(29.0,29.63)
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&NEW MATCH TO ORIGTXT&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+originalText2_in:4195 startendout0:2 startendout1:450
+The works here are probably not what most visitors expect to see at the National Museum of the American Indian, says curator Rebecca Head Trautmann
+148 wP: 25
+The works here are probably not what most visitors expect to see at the National Museum of the American Indian, says curator Rebecca Head Trautmann. "I think that people are often surprised when they come to this museum and see an exhibition of modern or contemporary Native art
+279 wP: 48
+The works here are probably not what most visitors expect to see at the National Museum of the American Indian, says curator Rebecca Head Trautmann. "I think that people are often surprised when they come to this museum and see an exhibition of modern or contemporary Native art."
+
+
+She hopes "Vantage Point" will surprise and challenge people's notions of what Native American art is and what Native American artists do
+424 wP: 71
+-1 wP: 0
+********BW:**EW:***USED longest: the works here are probably not what most visitors expect to see at the national museum of the american indian says curator rebecca head trautmann i think that people are often surprised when they come to this museum and see an exhibition of modern or contemporary native art she hopes vantage point will surprise and challenge people s notions of what native american art is and what native american artists do marie watt a seneca replacementText: [BEGIN00:31]The works here are probably not what most visitors expect to see at the National Museum of the American Indian, says curator Rebecca Head Trautmann[END00:38][BEGIN00:38]. "I think that people are often surprised when they come to this museum and see an exhibition of modern or contemporary Native art[END00:47][BEGIN00:47]."
+
+
+She hopes "Vantage Point" will surprise and challenge people's notions of what Native American art is and what Native American artists do[END00:56][BEGIN00:56].
+
+Marie Watt, a Seneca[END00:59]***DONE
+*************CHAR SKIPED2: 0 Time Skiped: 1.58
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%newSTARTPOSITION:538
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%newfileContentBuff:. [BEGIN00:31]The works here are probably not what most visitors expect to see at the National Museum of the American Indian, says curator Rebecca Head Trautmann[END00:38][BEGIN00:38]. "I think that people are often surprised when they come to this museum and see an exhibition of modern or contemporary Native art[END00:47][BEGIN00:47]."
+
+
+She hopes "Vantage Point" will surprise and challenge people's notions of what Native American art is and what Native American artists do[END00:56][BEGIN00:56].
+
+Marie Watt, a Seneca[END00:59], is one of those Native artists challenging the notion of what American Indian art is. She sews together recycled fabric, something like piecing a quilt. 
+
+Watt creates most of her pieces in a sewing circle and says, "many hands make light work." She spent a Sunday at the museum enlisting the help of visitors to create a new work. 
+
+More than half a dozen women sat around a large table on which several pairs of blue jeans had been pinned together in a circle. Participants were told they could come and go as they pleased and that no sewing experience was necessary. 
+
+Watt says any age can participate, from as young as two to as old as 100. "I never take out anybody's stitches in the sewing circle," she says, "but if there are any weak links I'll reinforce them. Everybody's stitches are important." They are, she says, "unique like a thumbprint or signature."
+
+You can see the variety of stitches used to assemble an earlier work in the Vantage Point exhibit. In the Garden: Corn, Beans and Squash represents three traditional foods of the Seneca people. The material it is made from -- recycled wool blankets -- also has meaning.
+
+"I started collecting these blankets, wanting to use this kind of ordinary everyday object," Watt says. "But I was also interested in how blankets are these objects in the native community and in the Seneca community that we give away to honor people for being witness to important life events."
+
+
+All of the works in the exhibit explore identity, history, culture or landscape from a Native American perspective. That point of view is evident in some works, but not all. 
+
+James Lavadour's Blanket is composed of 15 small panels painted in bold colors. Trautmann says it is a landscape of the Umatilla Indian Reservation.  But it's a personal impression of the land where the Walla Walla artist grew up.  The work doesn't represent the physical appearance of the landscape, "but rather the forces, the geological and meteorological forces that have shaped the landscape." 
+
+James Luna, a Puyoukichum (Luiseno), from Southern California, almost always creates works with a distinctly Indian viewpoint.  But he says, "I do believe it doesn't have to look Indian to be Indian. It's the very fact that I am an Indian making art that it becomes Indian art."
+
+His piece, "Chapel for Pablo Tac," was created for the 2005 Biennale and is the largest work in the exhibition. The work is an installation resembling a Spanish mission in California, complete with bench seats and an altar. It explores the impact of Christianity on Native Americans, juxtaposing objects used during traditional native worship alongside those used during a Catholic mass. For example, a bundle of dried sage next to an incense burner, and a rattle made from a gourd beside bells. 
+
+Luna says he chose Pablo Tac as the subject of this work, because Tac challenges the public's preconception of Native Americans. "If you look at the cultures of native California, we were primarily hunters and gatherers, so people walk away with that concept of us being less than," the artist says. "The inclusion of Pablo Tac elevates us to a whole other level. It elevates us from spear-chuckers to linguist."
+
+Known primarily as a performance artist, Luna seeks to educate the public through his art.
+"Given the opportunity the most I can wish for would be that people reconsider the native experience as they see it, that once seeing a work of mine or [a] performance, they will reconsider what they know."
+
+Although other artists in the Vantage Point exhibit may not share Luna's mission, their works are a reminder that American Indian cultures are not frozen in the 19th century, but continue to evolve today. 
+
+
+
+****TEST2...1.58
+****TEST3...538
+****TEST4...30
+****TEST5.... [BEGIN00:31]The works here are probably not what most visitors expect to see at the National Museum of the American Indian, says curator Rebecca Head Trautmann[END00:38][BEGIN00:38]. "I think that people are often surprised when they come to this museum and see an exhibition of modern or contemporary Native art[END00:47][BEGIN00:47]."
+
+
+She hopes "Vantage Point" will surprise and challenge people's notions of what Native American art is and what Native American artists do[END00:56][BEGIN00:56].
+
+Marie Watt, a Seneca[END00:59]
+##############FILE APPEND OK#############
+TEST1
+TEST2
+TEST3
+TEST5
+NO PHASE SHIFT
+TotalBit:960001start: 1888045 end: 2848045
+Audio File SEGMENT CREATED... 
+TEST7
+TEST8
+ *****txtContentOrigLength:3745
+textLength: 3745
+textLengthCS: is one of those native artists challenging the notion of what american indian art is she sews together recycled fabric something like piecing a quilt watt creates most of her pieces in a sewing circle and says many hands make light work she spent a sunday at the museum enlisting the help of visitors to create a new work more than half a dozen women sat around a large table on which several pairs of blue jeans had been pinned together in a circle participants were told they could come and go as they pleased and that no sewing experience was necessary watt says any age can participate from as young as two to as old as 100 i never take out anybody s stitches in the sewing circle she says but if there are any weak links i ll reinforce them everybody s stitches are important they are she says unique like a thumbprint or signature you can see the variety of stitches used to assemble an earlier work in the vantage point exhibit in the garden corn beans and squash represents three traditional foods of the seneca people the material it is made from recycled wool blankets also has meaning i started collecting these blankets wanting to use this kind of ordinary everyday object watt says but i was also interested in how blankets are these objects in the native community and in the seneca community that we give away to honor people for being witness to important life events all of the works in the exhibit explore identity history culture or landscape from a native american perspective that point of view is evident in some works but not all james lavadour s blanket is composed of 15 small panels painted in bold colors trautmann says it is a landscape of the umatilla indian reservation but it s a personal impression of the land where the walla walla artist grew up the work doesn t represent the physical appearance of the landscape but rather the forces the geological and meteorological forces that have shaped the landscape james luna a puyoukichum luiseno from southern california almost always creates works with a distinctly indian viewpoint but he says i do believe it doesn t have to look indian to be indian it s the very fact that i am an indian making art that it becomes indian art his piece chapel for pablo tac was created for the 2005 biennale and is the largest work in the exhibition the work is an installation resembling a spanish mission in california complete with bench seats and an altar it explores the impact of christianity on native americans juxtaposing objects used during traditional native worship alongside those used during a catholic mass for example a bundle of dried sage next to an incense burner and a rattle made from a gourd beside bells luna says he chose pablo tac as the subject of this work because tac challenges the public s preconception of native americans if you look at the cultures of native california we were primarily hunters and gatherers so people walk away with that concept of us being less than the artist says the inclusion of pablo tac elevates us to a whole other level it elevates us from spear chuckers to linguist known primarily as a performance artist luna seeks to educate the public through his art given the opportunity the most i can wish for would be that people reconsider the native experience as they see it that once seeing a work of mine or a performance they will reconsider what they know although other artists in the vantage point exhibit may not share luna s mission their works are a reminder that american indian cultures are not frozen in the 19th century but continue to evolve today 
+   Mem  Total: 254.12 Mb  Free: 113.32 Mb
+   Used: This: 140.81 Mb  Avg: 140.81 Mb  Max: 140.81 Mb
+
+# --------------- Summary statistics ---------
+   Total Time Audio: 30.00s  Proc: 6.00s  Speed: 0.20 X real time
+   Mem  Total: 254.12 Mb  Free: 113.32 Mb
+   Used: This: 140.81 Mb  Avg: 140.81 Mb  Max: 140.81 Mb
+WORD: is(5.48,5.71)
+WORD: one(5.71,5.94)
+WORD: of(13.9,13.99)
+WORD: those(13.99,14.23)
+WORD: native(14.23,14.83)
+WORD: artists(15.47,15.85)
+WORD: challenging(15.85,16.32)
+WORD: the(16.63,16.71)
+WORD: notion(16.71,17.15)
+WORD: of(17.15,17.25)
+WORD: what(17.25,17.42)
+WORD: american(17.48,17.86)
+WORD: indian(17.86,18.49)
+WORD: art(18.72,18.92)
+WORD: is(18.92,19.13)
+WORD: she(19.13,19.29)
+WORD: sews(19.29,19.39)
+WORD: together(19.39,19.92)
+WORD: recycled(20.2,20.83)
+WORD: fabric(27.1,27.53)
+WORD: something(28.52,28.83)
+WORD: like(28.83,29.12)
+WORD: piecing(29.47,29.64)
+NOT... useOldFindReplace
+Timed Result: is(5.48,5.71) one(5.71,5.94) of(13.9,13.99) those(13.99,14.23) native(14.23,14.83) artists(15.47,15.85) challenging(15.85,16.32) the(16.63,16.71) notion(16.71,17.15) of(17.15,17.25) what(17.25,17.42) american(17.48,17.86) indian(17.86,18.49) art(18.72,18.92) is(18.92,19.13) she(19.13,19.29) sews(19.29,19.39) together(19.39,19.92) recycled(20.2,20.83) fabric(27.1,27.53) something(28.52,28.83) like(28.83,29.12) piecing(29.47,29.64)
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&NEW MATCH TO ORIGTXT&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+originalText2_in:3745 startendout0:2 startendout1:145
+is one of those Native artists challenging the notion of what American Indian art is
+85 wP: 15
+-1 wP: 0
+********BW:**EW:***USED longest: is one of those native artists challenging the notion of what american indian art is she sews together recycled fabric something like piecing replacementText: [BEGIN01:04]is one of those Native artists challenging the notion of what American Indian art is[END01:18][BEGIN01:18]. She sews together recycled fabric, something like piecing[END01:29]***DONE
+*************CHAR SKIPED1: 0 Time Skiped: 5.48 charLengthExceeded:24
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%newSTARTPOSITION:189
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%newfileContentBuff:, [BEGIN01:04]is one of those Native artists challenging the notion of what American Indian art is[END01:18][BEGIN01:18]. She sews together recycled fabric, something like piecing[END01:29] a quilt. 
+
+Watt creates most of her pieces in a sewing circle and says, "many hands make light work." She spent a Sunday at the museum enlisting the help of visitors to create a new work. 
+
+More than half a dozen women sat around a large table on which several pairs of blue jeans had been pinned together in a circle. Participants were told they could come and go as they pleased and that no sewing experience was necessary. 
+
+Watt says any age can participate, from as young as two to as old as 100. "I never take out anybody's stitches in the sewing circle," she says, "but if there are any weak links I'll reinforce them. Everybody's stitches are important." They are, she says, "unique like a thumbprint or signature."
+
+You can see the variety of stitches used to assemble an earlier work in the Vantage Point exhibit. In the Garden: Corn, Beans and Squash represents three traditional foods of the Seneca people. The material it is made from -- recycled wool blankets -- also has meaning.
+
+"I started collecting these blankets, wanting to use this kind of ordinary everyday object," Watt says. "But I was also interested in how blankets are these objects in the native community and in the Seneca community that we give away to honor people for being witness to important life events."
+
+
+All of the works in the exhibit explore identity, history, culture or landscape from a Native American perspective. That point of view is evident in some works, but not all. 
+
+James Lavadour's Blanket is composed of 15 small panels painted in bold colors. Trautmann says it is a landscape of the Umatilla Indian Reservation.  But it's a personal impression of the land where the Walla Walla artist grew up.  The work doesn't represent the physical appearance of the landscape, "but rather the forces, the geological and meteorological forces that have shaped the landscape." 
+
+James Luna, a Puyoukichum (Luiseno), from Southern California, almost always creates works with a distinctly Indian viewpoint.  But he says, "I do believe it doesn't have to look Indian to be Indian. It's the very fact that I am an Indian making art that it becomes Indian art."
+
+His piece, "Chapel for Pablo Tac," was created for the 2005 Biennale and is the largest work in the exhibition. The work is an installation resembling a Spanish mission in California, complete with bench seats and an altar. It explores the impact of Christianity on Native Americans, juxtaposing objects used during traditional native worship alongside those used during a Catholic mass. For example, a bundle of dried sage next to an incense burner, and a rattle made from a gourd beside bells. 
+
+Luna says he chose Pablo Tac as the subject of this work, because Tac challenges the public's preconception of Native Americans. "If you look at the cultures of native California, we were primarily hunters and gatherers, so people walk away with that concept of us being less than," the artist says. "The inclusion of Pablo Tac elevates us to a whole other level. It elevates us from spear-chuckers to linguist."
+
+Known primarily as a performance artist, Luna seeks to educate the public through his art.
+"Given the opportunity the most I can wish for would be that people reconsider the native experience as they see it, that once seeing a work of mine or [a] performance, they will reconsider what they know."
+
+Although other artists in the Vantage Point exhibit may not share Luna's mission, their works are a reminder that American Indian cultures are not frozen in the 19th century, but continue to evolve today. 
+
+
+
+****TEST2...5.48
+****TEST3...189
+****TEST4...30
+****TEST5..., [BEGIN01:04]is one of those Native artists challenging the notion of what American Indian art is[END01:18][BEGIN01:18]. She sews together recycled fabric, something like piecing[END01:29]
+##############FILE APPEND OK#############
+TEST1
+TEST2
+TEST3
+TEST5
+NO PHASE SHIFT
+TotalBit:960001start: 2848045 end: 3808045
+Audio File SEGMENT CREATED... 
+TEST7
+TEST8
+ *****txtContentOrigLength:3600
+textLength: 3600
+textLengthCS: a quilt watt creates most of her pieces in a sewing circle and says many hands make light work she spent a sunday at the museum enlisting the help of visitors to create a new work more than half a dozen women sat around a large table on which several pairs of blue jeans had been pinned together in a circle participants were told they could come and go as they pleased and that no sewing experience was necessary watt says any age can participate from as young as two to as old as 100 i never take out anybody s stitches in the sewing circle she says but if there are any weak links i ll reinforce them everybody s stitches are important they are she says unique like a thumbprint or signature you can see the variety of stitches used to assemble an earlier work in the vantage point exhibit in the garden corn beans and squash represents three traditional foods of the seneca people the material it is made from recycled wool blankets also has meaning i started collecting these blankets wanting to use this kind of ordinary everyday object watt says but i was also interested in how blankets are these objects in the native community and in the seneca community that we give away to honor people for being witness to important life events all of the works in the exhibit explore identity history culture or landscape from a native american perspective that point of view is evident in some works but not all james lavadour s blanket is composed of 15 small panels painted in bold colors trautmann says it is a landscape of the umatilla indian reservation but it s a personal impression of the land where the walla walla artist grew up the work doesn t represent the physical appearance of the landscape but rather the forces the geological and meteorological forces that have shaped the landscape james luna a puyoukichum luiseno from southern california almost always creates works with a distinctly indian viewpoint but he says i do believe it doesn t have to look indian to be indian it s the very fact that i am an indian making art that it becomes indian art his piece chapel for pablo tac was created for the 2005 biennale and is the largest work in the exhibition the work is an installation resembling a spanish mission in california complete with bench seats and an altar it explores the impact of christianity on native americans juxtaposing objects used during traditional native worship alongside those used during a catholic mass for example a bundle of dried sage next to an incense burner and a rattle made from a gourd beside bells luna says he chose pablo tac as the subject of this work because tac challenges the public s preconception of native americans if you look at the cultures of native california we were primarily hunters and gatherers so people walk away with that concept of us being less than the artist says the inclusion of pablo tac elevates us to a whole other level it elevates us from spear chuckers to linguist known primarily as a performance artist luna seeks to educate the public through his art given the opportunity the most i can wish for would be that people reconsider the native experience as they see it that once seeing a work of mine or a performance they will reconsider what they know although other artists in the vantage point exhibit may not share luna s mission their works are a reminder that american indian cultures are not frozen in the 19th century but continue to evolve today 

@@ -1,0 +1,1 @@
+C:/java/jdk1.6.0_14/bin/java -Xms512m -Xmx1024m -classpath C:/java/long_audio_aligner/Aligner/*;C:/java/long_audio_aligner/Aligner/lib/* alignment.AlignMainNew "C:/TEMP/advanced1/" "Exhibit Explores Modern Native American Art.wav" 0 0 0 14 0 > a3

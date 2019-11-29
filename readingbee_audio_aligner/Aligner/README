@@ -1,0 +1,16 @@
+CMUSphinx Long Audio Aligner
+----------------------------
+To compile and run the current version of long audio aligner, we recommend using ANT.
+
+The demo depends on two jars not included in the libs and an audio and text file, namely:
+i) sphinx4.jar
+ii) WSJ_8gau_13dCep_16k_40mel_130Hz_6800Hz.jar
+iii) black_cat1.wav
+iv) black_cat1.txt
+
+The jars must be present under ./lib for successful compilation of the code. The wav audio
+file must be present in ./resource/wav and the text file in ./resource/transcription/
+
+Instructions to complile and run the code:
+ > ant all
+
